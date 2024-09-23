@@ -1,542 +1,1 @@
-code,alt_label
-INUK.7A49z00,Reconstruction of femoral or popliteal artery NOS
-INUK.G31..00,Other acute and subacute ischaemic heart disease
-INUK.G640.00,Cerebral thrombosis
-INUK.7A47600,Emerg bypass femoral art by fem/tib a anast c vein graft NEC
-INUK.G307100,Acute non-ST segment elevation myocardial infarction
-INUK.G306.00,True posterior myocardial infarction
-INUK.Gyu3000,[X]Other forms of angina pectoris
-INUK.G34yz00,Other specified chronic ischaemic heart disease NOS
-INUK.14A4.00,H/O: myocardial infarct >60
-INUK.G64z000,Brainstem infarction
-INUK.G351.00,Subsequent myocardial infarction of inferior wall
-INUK.G666.00,Pure sensory lacunar syndrome
-INUK.Gyu7400,[X]Other specified peripheral vascular diseases
-INUK.7A48200,Bypass femoral artery by fem/pop art anast c vein graft NEC
-INUK.7920100,Saphenous vein graft replacement of two coronary arteries
-INUK.7924300,Revision of bypass for four or more coronary arteries
-INUK.7922000,Allograft replacement of one coronary artery
-INUK.G362.00,Ventric septal defect/curr comp fol acut myocardal infarctn
-INUK.7920y00,Saphenous vein graft replacement of coronary artery OS
-INUK.7928200,Percut translum balloon angioplasty bypass graft coronary a
-INUK.G73y600,Acroparaesthesia - unspecified
-INUK.G742z00,Peripheral arterial embolism and thrombosis NOS
-INUK.G33z600,New onset angina
-INUK.7A4A211,Open thrombectomy of femoral artery
-INUK.7929500,Insertion of drug-eluting coronary artery stent
-INUK.G380.00,Postoperative transmural myocardial infarction anterior wall
-INUK.G64z.00,Cerebral infarction NOS
-INUK.G330000,Nocturnal angina
-INUK.7921100,Autograft replacement of two coronary arteries NEC
-INUK.7A47y00,Other emergency bypass of femoral or popliteal artery OS
-INUK.G30y000,Acute atrial infarction
-INUK.7923100,Prosthetic replacement of two coronary arteries
-INUK.7923000,Prosthetic replacement of one coronary artery
-INUK.G73z.00,Peripheral vascular disease NOS
-INUK.G301000,Acute anteroapical infarction
-INUK.7A4B200,Percutaneous transluminal embolectomy of femoral artery
-INUK.7929111,Percut translum coronary thrombolytic therapy- streptokinase
-INUK.792..00,Coronary artery operations
-INUK.14A3.00,H/O: myocardial infarct <60
-INUK.793H.00,Transluminal operations on cardiac conduit
-INUK.C10EG00,Type 1 diabetes mellitus with peripheral angiopathy
-INUK.7924500,Revision of implantation of thoracic artery into heart
-INUK.G33z.00,Angina pectoris NOS
-INUK.G74y100,Embolism and/or thrombosis of the internal iliac artery
-INUK.G613.00,Cerebellar haemorrhage
-INUK.G311.12,Impending infarction
-INUK.G366.00,"Thrombosis atrium,auric append&vent/curr comp foll acute MI"
-INUK.G310.11,Dressler's syndrome
-INUK.G665.00,Pure motor lacunar syndrome
-INUK.G33z700,Stable angina
-INUK.7921y00,Other autograft replacement of coronary artery OS
-INUK.G61z.00,Intracerebral haemorrhage NOS
-INUK.7A47B00,Emerg bypass pop art by pop/peron art anast c vein graft NEC
-INUK.G733.00,Ischaemic foot
-INUK.7926z00,Connection of other thoracic artery to coronary artery NOS
-INUK.G73..00,Other peripheral vascular disease
-INUK.G300.00,Acute anterolateral infarction
-INUK.G73y400,Acroparaesthesia - Schultze's type
-INUK.G73y200,Acrocyanosis
-INUK.793G000,Perc translum ball angio insert 1-2 drug elut stents cor art
-INUK.7A43.11,Other open operations on common iliac artery
-INUK.A3A0F00,Gas gangrene-foot
-INUK.7A50200,Revision of reconstruction involving femoral artery
-INUK.7922200,Allograft replacement of three coronary arteries
-INUK.7A48400,Bypass femoral artery by fem/tib art anast c prosthesis NEC
-INUK.G332.00,Coronary artery spasm
-INUK.G731z00,Thromboangiitis obliterans NOS
-INUK.7925200,Single anast mammary art to left ant descend coronary art
-INUK.7927300,Transposition of coronary artery NEC
-INUK.793G300,Percutaneous cor balloon angiop 3 more stents cor art NEC
-INUK.7925311,LIMA single anastomosis
-INUK.G331.00,Prinzmetal's angina
-INUK.G30..12,Coronary thrombosis
-INUK.7A48.15,Other bypass of popliteal artery
-INUK.G73y511,Nothnagel's vasomotor acroparaesthesia
-INUK.14F7.00,H/O: arterial lower limb ulcer
-INUK.G35X.00,Subsequent myocardial infarction of unspecified site
-INUK.7A44y00,Other specified transluminal operation on iliac artery
-INUK.7925312,RIMA single anastomosis
-INUK.7A48.16,Other bypass of superficial femoral artery
-INUK.Gyu6G00,[X]Cereb infarct due unsp occlus/stenos precerebr arteries
-INUK.7926100,Double implant thoracic arteries into coronary arteries NEC
-INUK.14AH.00,H/O: Myocardial infarction in last year
-INUK.7920300,Saphenous vein graft replacement of four+ coronary arteries
-INUK.7A42012,Iliac endarterectomy and patch
-INUK.G702z00,Extremity artery atheroma NOS
-INUK.7925011,LIMA sequential anastomosis
-INUK.G74y300,Embolism and thrombosis of the iliac artery unspecified
-INUK.G610.00,Cortical haemorrhage
-INUK.7A42.11,Reconstruction of common iliac artery
-INUK.7A49500,Profundoplasty and patch repair of popliteal artery
-INUK.G611.00,Internal capsule haemorrhage
-INUK.793G200,Perc translum balloon angioplasty insert 1-2 stents cor art
-INUK.7A47200,Emerg bypass femoral art by fem/pop a anast c vein graft NEC
-INUK.G382.00,Postoperative transmural myocardial infarction other sites
-INUK.G731.00,Thromboangiitis obliterans
-INUK.G501.00,Post infarction pericarditis
-INUK.G64z.11,Brainstem infarction NOS
-INUK.1477.00,H/O: cerebrovascular disease
-INUK.7921.11,Other autograft bypass of coronary artery
-INUK.7A48000,Bypass femoral artery by fem/pop art anast c prosthesis NEC
-INUK.7925012,RIMA sequential anastomosis
-INUK.7A44000,Percutaneous transluminal angioplasty of iliac artery
-INUK.7A49900,Reconstruction of popliteal artery with vein graft
-INUK.G305.00,Lateral myocardial infarction NOS
-INUK.Gyu3500,[X]Subsequent myocardial infarction of other sites
-INUK.7A49200,Endarterectomy of femoral artery NEC
-INUK.7A4B400,Percutaneous transluminal embolisation of femoral artery
-INUK.792Cz00,Replacement of coronary artery NOS
-INUK.7A42y00,Other specified reconstruction of iliac artery
-INUK.G30..13,Cardiac rupture following myocardial infarction (MI)
-INUK.G30..17,Silent myocardial infarction
-INUK.7921000,Autograft replacement of one coronary artery NEC
-INUK.322Z.00,ECG: myocardial ischaemia NOS
-INUK.7A4Ay00,Other open operation on femoral or popliteal artery OS
-INUK.14AW.00,H/O acute coronary syndrome
-INUK.G303.00,Acute inferoposterior infarction
-INUK.7A41900,Bypass common iliac artery by aorta/com iliac art anast NEC
-INUK.7922z00,Allograft replacement of coronary artery NOS
-INUK.G65y.00,Other transient cerebral ischaemia
-INUK.7A41z00,Other bypass of iliac artery NOS
-INUK.7A12100,Bypass bifurc aorta by anastom aorta to femoral artery NEC
-INUK.G73z000,Intermittent claudication
-INUK.7923300,Prosthetic replacement of four or more coronary arteries
-INUK.G31y100,Microinfarction of heart
-INUK.G676000,"Cereb infarct due cerebral venous thrombosis, nonpyogenic"
-INUK.7A41200,Emerg bypass iliac artery by femoral/femoral art anast NEC
-INUK.G63z.00,Precerebral artery occlusion NOS
-INUK.14AJ.00,H/O: Angina in last year
-INUK.7924z00,Revision of bypass for coronary artery NOS
-INUK.G31yz00,Other acute and subacute ischaemic heart disease NOS
-INUK.7A41211,Emergency femoro-femoral prosthetic cross over graft
-INUK.7A48y00,Other bypass of femoral artery or popliteal artery OS
-INUK.7A6H400,Percutaneous transluminal angioplasty of vascular graft
-INUK.7A4A212,Open femoral embolectomy
-INUK.7A41F00,Ilio-femoral prosthetic cross over graft
-INUK.7922.11,Allograft bypass of coronary artery
-INUK.7A4B100,Percutaneous transluminal angioplasty of popliteal artery
-INUK.7A50300,Revision of reconstruction of popliteal artery
-INUK.G74y200,Embolism and/or thrombosis of the external iliac artery
-INUK.14A7.11,H/O: CVA
-INUK.7A44400,Percutaneous transluminal insertion of iliac artery stent
-INUK.14A7.00,H/O: CVA/stroke
-INUK.7A48A00,Bypass femoral artery by fem/peron a anast c vein graft NEC
-INUK.7A41B00,Bypass leg artery by aorta/com femoral art anastomosis NEC
-INUK.G66..13,CVA - Cerebrovascular accident unspecified
-INUK.G363.00,Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI
-INUK.7922300,Allograft replacement of four or more coronary arteries
-INUK.G361.00,Atrial septal defect/curr comp folow acut myocardal infarct
-INUK.G73zz00,Peripheral vascular disease NOS
-INUK.Gyu6C00,"[X]Sequelae of stroke,not specfd as h'morrhage or infarction"
-INUK.G612.00,Basal nucleus haemorrhage
-INUK.G311.00,Preinfarction syndrome
-INUK.793G100,Perc tran ball angio ins 3 or more drug elut stents cor art
-INUK.7A49600,Profundoplasty of femoral artery NEC
-INUK.G63..00,Precerebral arterial occlusion
-INUK.7A47.16,Other emergency bypass of femoral artery
-INUK.8CRB.00,Transient ischaemic attack clinical management plan
-INUK.792Dz00,Other bypass of coronary artery NOS
-INUK.Gyu3400,[X]Acute transmural myocardial infarction of unspecif site
-INUK.7A50.00,Revision of reconstruction of artery
-INUK.7A50000,Revision of reconstruction involving aorta
-INUK.G66..12,Stroke unspecified
-INUK.G732000,Gangrene of toe
-INUK.G36..00,Certain current complication follow acute myocardial infarct
-INUK.G64z300,Right sided cerebral infarction
-INUK.792D.00,Other bypass of coronary artery
-INUK.G63y000,Cerebral infarct due to thrombosis of precerebral arteries
-INUK.792..11,Coronary artery bypass graft operations
-INUK.7923.11,Prosthetic bypass of coronary artery
-INUK.7A48100,Bypass popliteal artery by pop/pop a anast c prosthesis NEC
-INUK.7929600,Percutaneous transluminal atherectomy of coronary artery
-INUK.G633.00,Multiple and bilateral precerebral arterial occlusion
-INUK.7929z00,Other therapeutic transluminal op on coronary artery NOS
-INUK.G677100,Occlusion and stenosis of anterior cerebral artery
-INUK.7A49.15,Reconstruction of superficial femoral artery
-INUK.G38..00,Postoperative myocardial infarction
-INUK.G30z.00,Acute myocardial infarction NOS
-INUK.7A48z00,Other bypass of femoral artery or popliteal artery NOS
-INUK.7A49.11,Reconstruction of common femoral artery
-INUK.G312.00,Coronary thrombosis not resulting in myocardial infarction
-INUK.G73y100,Peripheral angiopathic disease EC NOS
-INUK.G68W.00,Sequelae/other + unspecified cerebrovascular diseases
-INUK.G364.00,Ruptur chordae tendinae/curr comp fol acute myocard infarct
-INUK.14AF.00,H/O sub-arachnoid haemorrhage
-INUK.7A4A700,Repair of femoral artery with temporary silastic shunt
-INUK.G65z100,Intermittent cerebral ischaemia
-INUK.7926300,Single implantation thoracic artery into coronary artery NEC
-INUK.G654.00,Multiple and bilateral precerebral artery syndromes
-INUK.C107100,"Diabetes mellitus, adult, + peripheral circulatory disorder"
-INUK.7A48.14,Other bypass of femoral artery
-INUK.G302.00,Acute inferolateral infarction
-INUK.G365.00,Rupture papillary muscle/curr comp fol acute myocard infarct
-INUK.G6W..00,Cereb infarct due unsp occlus/stenos precerebr arteries
-INUK.G33z500,Post infarct angina
-INUK.7927y00,Other specified other open operation on coronary artery
-INUK.7A12000,Emerg bypass bifurc aorta by anast aorta to femoral artery
-INUK.792Ay00,Diagnostic transluminal operation on coronary artery OS
-INUK.7929100,Percut transluminal coronary thrombolysis with streptokinase
-INUK.G61..12,Stroke due to intracerebral haemorrhage
-INUK.7924100,Revision of bypass for two coronary arteries
-INUK.G73y700,Erythrocyanosis
-INUK.G34y.00,Other specified chronic ischaemic heart disease
-INUK.7A4A300,Open embolectomy popliteal artery
-INUK.M271000,Ischaemic ulcer diabetic foot
-INUK.7928300,Percut translum cutting balloon angioplasty coronary artery
-INUK.G61..00,Intracerebral haemorrhage
-INUK.7A42100,Endarterectomy of iliac artery NEC
-INUK.G32..12,Personal history of myocardial infarction
-INUK.7A48600,Bypass femoral artery by fem/tib art anast c vein graft NEC
-INUK.G700.11,Aorto-iliac disease
-INUK.7923200,Prosthetic replacement of three coronary arteries
-INUK.7A49800,Reconstruction of femoral artery with vein graft
-INUK.7A4A200,Open embolectomy of femoral artery
-INUK.7922y00,Other specified allograft replacement of coronary artery
-INUK.Gyu6200,[X]Other intracerebral haemorrhage
-INUK.7A6G100,Peroperative angioplasty
-INUK.7925000,Double anastomosis of mammary arteries to coronary arteries
-INUK.G30..14,Heart attack
-INUK.7A10100,Bypass aorta by anastomosis axillary to femoral artery NEC
-INUK.7927400,Exploration of coronary artery
-INUK.R055011,[D]Peripheral circulatory failure
-INUK.G383.00,Postoperative transmural myocardial infarction unspec site
-INUK.8HTQ.00,Referral to stroke clinic
-INUK.G34z.00,Other chronic ischaemic heart disease NOS
-INUK.7A4A311,Open thrombectomy of popliteal artery
-INUK.7925100,Double implant of mammary arteries into coronary arteries
-INUK.G30..15,MI - acute myocardial infarction
-INUK.G63y100,Cerebral infarction due to embolism of precerebral arteries
-INUK.7923y00,Other specified prosthetic replacement of coronary artery
-INUK.G34y000,Chronic coronary insufficiency
-INUK.7929300,Rotary blade coronary angioplasty
-INUK.G632.00,Vertebral artery occlusion
-INUK.G641.11,Cerebral embolus
-INUK.792C.00,Other replacement of coronary artery
-INUK.G64z100,Wallenberg syndrome
-INUK.7928z00,Transluminal balloon angioplasty of coronary artery NOS
-INUK.7A43300,Open insertion of iliac artery stent
-INUK.G30..11,Attack - heart
-INUK.G308.00,Inferior myocardial infarction NOS
-INUK.7P24200,Delivery of rehabilitation for stroke
-INUK.G66..11,CVA unspecified
-INUK.G30..00,Acute myocardial infarction
-INUK.7A41y00,Other specified other bypass of iliac artery
-INUK.7A10000,Emerg aortic bypass by anastomosis axillary to femoral art
-INUK.8HHM.00,Ref to multidisciplinary stroke function improvement service
-INUK.G30..16,Thrombosis - coronary
-INUK.G64..00,Cerebral arterial occlusion
-INUK.7A48E00,Femoro-femoral prosthetic cross over graft
-INUK.G73..12,Ischaemia of legs
-INUK.G311300,Refractory angina
-INUK.7A47100,Emerg bypass popliteal art by pop/pop art anast c prosth NEC
-INUK.ZV45L00,[V]Status following coronary angioplasty NOS
-INUK.G30y.00,Other acute myocardial infarction
-INUK.G641000,Cerebral infarction due to embolism of cerebral arteries
-INUK.G614.00,Pontine haemorrhage
-INUK.7A4A.13,Other open operations on popliteal artery
-INUK.2G63.00,Ischaemic toe
-INUK.ZV45K11,[V]Presence of coronary artery bypass graft - CABG
-INUK.7929400,Insertion of coronary artery stent
-INUK.G31y200,Subendocardial ischaemia
-INUK.Gyu6300,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
-INUK.R054300,[D]Widespread diabetic foot gangrene
-INUK.G732.00,Peripheral gangrene
-INUK.323..00,ECG: myocardial infarction
-INUK.G681.00,Sequelae of intracerebral haemorrhage
-INUK.792Cy00,Other specified replacement of coronary artery
-INUK.G31y000,Acute coronary insufficiency
-INUK.G35..00,Subsequent myocardial infarction
-INUK.C10FF00,Type 2 diabetes mellitus with peripheral angiopathy
-INUK.G652.00,Subclavian steal syndrome
-INUK.792Az00,Diagnostic transluminal operation on coronary artery NOS
-INUK.G353.00,Subsequent myocardial infarction of other sites
-INUK.7A4A.00,Other open operations on femoral artery or popliteal artery
-INUK.7A43100,Open embolectomy of iliac artery
-INUK.793Gz00,Perc translum balloon angioplasty stenting coronary art NOS
-INUK.7A4A800,Repair of popliteal artery with temporary silastic shunt
-INUK.C109F12,Type 2 diabetes mellitus with peripheral angiopathy
-INUK.7A10200,Axillo-bifemoral bypass graft
-INUK.7A4B500,Percutaneous transluminal embolisation of popliteal artery
-INUK.7A41400,Emerg bypass comm iliac art by aorta/com iliac art anast NEC
-INUK.G677000,Occlusion and stenosis of middle cerebral artery
-INUK.G307.00,Acute subendocardial infarction
-INUK.7A47.11,Other emerg bypass femoral or popliteal art by anastomosis
-INUK.7A54500,Rotary blade angioplasty
-INUK.G682.00,Sequelae of other nontraumatic intracranial haemorrhage
-INUK.7A47z00,Other emergency bypass of femoral or popliteal artery NOS
-INUK.7A43111,Open embolectomy of common iliac artery
-INUK.G73y800,Erythromelalgia
-INUK.7A42.00,Reconstruction of iliac artery
-INUK.G73y000,Diabetic peripheral angiopathy
-INUK.792C000,Replacement of coronary arteries using multiple methods
-INUK.7A48B00,Bypass popliteal art by pop/peron art anast c vein graft NEC
-INUK.7A4B000,Percutaneous transluminal angioplasty of femoral artery
-INUK.7926y00,Connection of other thoracic artery to coronary artery OS
-INUK.7929200,Percut translum inject therap subst to coronary artery NEC
-INUK.14A5.00,H/O: angina pectoris
-INUK.G615.00,Bulbar haemorrhage
-INUK.7A47.13,Other emergency bypass of deep femoral artery
-INUK.C107.00,Diabetes mellitus with peripheral circulatory disorder
-INUK.7928y00,Transluminal balloon angioplasty of coronary artery OS
-INUK.G30A.00,Mural thrombosis
-INUK.ZV45800,[V]Presence of coronary angioplasty implant and graft
-INUK.7A48300,Bypass popliteal artery by pop/pop a anast c vein graft NEC
-INUK.Gyu6B00,[X]Sequelae of other nontraumatic intracranial haemorrhage
-INUK.14AK.00,H/O: Stroke in last year
-INUK.G73..11,Peripheral ischaemic vascular disease
-INUK.7A49300,Endarterectomy of popliteal artery NEC
-INUK.7925400,Single implantation of mammary artery into coronary artery
-INUK.7A47C00,Emerg bypass femoral artery by fem/fem art anastomosis NEC
-INUK.792Dy00,Other specified other bypass of coronary artery
-INUK.G640000,Cerebral infarction due to thrombosis of cerebral arteries
-INUK.7929y00,Other therapeutic transluminal op on coronary artery OS
-INUK.G64z200,Left sided cerebral infarction
-INUK.Gyu6500,[X]Occlusion and stenosis of other precerebral arteries
-INUK.Gyu3600,[X]Subsequent myocardial infarction of unspecified site
-INUK.G617.00,"Intracerebral haemorrhage, intraventricular"
-INUK.7A49700,Profundoplasty of popliteal artery NEC
-INUK.G742400,Embolism and thrombosis of the femoral artery
-INUK.7A42000,Endarterectomy and patch repair of iliac artery
-INUK.G33zz00,Angina pectoris NOS
-INUK.7A19200,Open embolectomy of bifurcation of aorta
-INUK.G641.00,Cerebral embolism
-INUK.14A..12,H/O: myocardial problem
-INUK.14AT.00,History of myocardial infarction
-INUK.7A44300,Insertion of iliac artery stent
-INUK.7A48.00,Other bypass of femoral artery or popliteal artery
-INUK.G64z400,Infarction of basal ganglia
-INUK.M271300,Arterial leg ulcer
-INUK.7A41000,Emerg bypass iliac art by iliac/femoral art anastomosis NEC
-INUK.M271.12,Ischaemic leg ulcer
-INUK.G311400,Worsening angina
-INUK.7A41600,Emerg bypass leg artery by aorta/com fem art anastomosis NEC
-INUK.G301z00,Anterior myocardial infarction NOS
-INUK.7925300,Single anastomosis of mammary artery to coronary artery NEC
-INUK.792B000,Endarterectomy of coronary artery NEC
-INUK.G631.00,Carotid artery occlusion
-INUK.G73..13,Peripheral ischaemia
-INUK.7A48.11,Other bypass of femoral or popliteal artery by anastomosis
-INUK.7A48700,Bypass popliteal artery by pop/tib a anast c vein graft NEC
-INUK.7A42z00,Reconstruction of iliac artery NOS
-INUK.G63y.00,Other precerebral artery occlusion
-INUK.7A47.00,Other emergency bypass of femoral artery or popliteal artery
-INUK.7927500,Open angioplasty of coronary artery
-INUK.G61..11,CVA - cerebrovascular accid due to intracerebral haemorrhage
-INUK.ZV45700,[V]Presence of aortocoronary bypass graft
-INUK.7A12.00,Other bypass of bifurcation of aorta
-INUK.7A42111,Endarterectomy of common iliac artery NEC
-INUK.G61X100,"Right sided intracerebral haemorrhage, unspecified"
-INUK.G73yz00,Other specified peripheral vascular disease NOS
-INUK.G311.11,Crescendo angina
-INUK.G651.00,Vertebral artery syndrome
-INUK.7925y00,Connection of mammary artery to coronary artery OS
-INUK.G381.00,Postoperative transmural myocardial infarction inferior wall
-INUK.G384.00,Postoperative subendocardial myocardial infarction
-INUK.7A49y00,Reconstruction of femoral or popliteal artery OS
-INUK.G33..00,Angina pectoris
-INUK.G33z100,Stenocardia
-INUK.Gyu3100,[X]Other current complicatns following acute myocard infarct
-INUK.7926200,Single anastomosis of thoracic artery to coronary artery NEC
-INUK.G64..12,Infarction - cerebral
-INUK.G73y.00,Other specified peripheral vascular disease
-INUK.7928000,Percut transluminal balloon angioplasty one coronary artery
-INUK.G66..00,Stroke and cerebrovascular accident unspecified
-INUK.C107z00,Diabetes mellitus NOS with peripheral circulatory disorder
-INUK.7A47700,Emerg bypass pop art by pop/tib art anast c vein graft NEC
-INUK.G63..11,Infarction - precerebral
-INUK.7A48800,Bypass femoral artery by fem/peron a anast c prosthesis NEC
-INUK.G64..11,CVA - cerebral artery occlusion
-INUK.G30y200,Acute septal infarction
-INUK.9N4X.00,DNA - Did not attend stroke clinic
-INUK.7921300,Autograft replacement of four of more coronary arteries NEC
-INUK.G344.00,Silent myocardial ischaemia
-INUK.G30y100,Acute papillary muscle infarction
-INUK.G331.11,Variant angina pectoris
-INUK.7926000,Double anastom thoracic arteries to coronary arteries NEC
-INUK.G663.00,Brain stem stroke syndrome
-INUK.G310.00,Postmyocardial infarction syndrome
-INUK.G668.00,Right sided CVA
-INUK.7924200,Revision of bypass for three coronary arteries
-INUK.G311.14,Angina at rest
-INUK.G74y000,Embolism and/or thrombosis of the common iliac artery
-INUK.G33z300,Angina on effort
-INUK.7A4B800,Percut translum thrombolysis femoral graft streptokinase
-INUK.792y.00,Other specified operations on coronary artery
-INUK.G64z111,Lateral medullary syndrome
-INUK.G61X000,"Left sided intracerebral haemorrhage, unspecified"
-INUK.662K300,Angina control - worsening
-INUK.7A43.00,Other open operations on iliac artery
-INUK.7A49.13,Reconstruction of femoral artery
-INUK.G6...00,Cerebrovascular disease
-INUK.7A48D00,Bypass popliteal artery by pop/fem artery anastomosis NEC
-INUK.G742700,Embolism and thrombosis of the dorsalis pedis artery
-INUK.792B.00,Repair of coronary artery NEC
-INUK.G311.13,Unstable angina
-INUK.7A47.14,Other emergency bypass of popliteal artery
-INUK.7A48C00,Bypass femoral artery by femoral/femoral art anastomosis NEC
-INUK.7A47400,Emerg bypass femoral art by fem/tib art anast c prosth NEC
-INUK.7925z00,Connection of mammary artery to coronary artery NOS
-INUK.7A48500,Bypass popliteal artery by pop/tib a anast c prosthesis NEC
-INUK.7A49400,Profundoplasty femoral artery & patch repair deep fem artery
-INUK.ZV45K00,[V]Presence of coronary artery bypass graft
-INUK.7A12311,Aorto biiliac graft
-INUK.Gyu6400,[X]Other cerebral infarction
-INUK.G64z.12,Cerebellar infarction
-INUK.7924000,Revision of bypass for one coronary artery
-INUK.7A41100,Bypass iliac artery by iliac/femoral artery anastomosis NEC
-INUK.7A49.00,Reconstruction of femoral artery or popliteal artery
-INUK.G65z.00,Transient cerebral ischaemia NOS
-INUK.7A41C00,Bypass leg artery by aorta/deep femoral art anastomosis NEC
-INUK.ZV12511,[V]Personal history of stroke
-INUK.ZLEP.00,Discharge from stroke serv
-INUK.7A49.14,Reconstruction of popliteal artery
-INUK.7924y00,Other specified revision of bypass for coronary artery
-INUK.C107000,"Diabetes mellitus, juvenile +peripheral circulatory disorder"
-INUK.G65..12,Transient ischaemic attack
-INUK.7A48.12,Other bypass of common femoral artery
-INUK.G301.00,Other specified anterior myocardial infarction
-INUK.7A4A.11,Other open operations on common femoral artery
-INUK.7A12300,Bypass bifurcation aorta by anastom aorta to iliac artery
-INUK.7A44100,Percutaneous transluminal embolectomy of iliac artery
-INUK.662K200,Angina control - improving
-INUK.7A41311,Femoro-femoral prosthetic cross over graft
-INUK.G311100,Unstable angina
-INUK.792A.00,Diagnostic transluminal operations on coronary artery
-INUK.Gyu3300,[X]Other forms of chronic ischaemic heart disease
-INUK.G30yz00,Other acute myocardial infarction NOS
-INUK.7929000,Percutaneous transluminal laser coronary angioplasty
-INUK.G33z000,Status anginosus
-INUK.G311200,Angina at rest
-INUK.G677200,Occlusion and stenosis of posterior cerebral artery
-INUK.7A12z00,Other bypass of bifurcation of aorta NOS
-INUK.7A12y00,Other specified other bypass of bifurcation of aorta
-INUK.G301100,Acute anteroseptal infarction
-INUK.G677400,Occlusion+stenosis of multiple and bilat cerebral arteries
-INUK.G30B.00,Acute posterolateral myocardial infarction
-INUK.7920000,Saphenous vein graft replacement of one coronary artery
-INUK.G30X.00,Acute transmural myocardial infarction of unspecif site
-INUK.7A44z00,Transluminal operation on iliac artery NOS
-INUK.7928100,Percut translum balloon angioplasty mult coronary arteries
-INUK.G330.00,Angina decubitus
-INUK.7A6H300,Prosthetic graft patch angioplasty
-INUK.G33z200,Syncope anginosa
-INUK.14A7.12,H/O: stroke
-INUK.7924400,Revision of connection of thoracic artery to coronary artery
-INUK.7923z00,Prosthetic replacement of coronary artery NOS
-INUK.G330z00,Angina decubitus NOS
-INUK.C109F11,Type II diabetes mellitus with peripheral angiopathy
-INUK.7A47300,Emerg bypass pop art by pop/pop art anast c vein graft NEC
-INUK.7A41.00,Other bypass of iliac artery
-INUK.7A47D00,Emerg bypass popliteal artery by pop/fem art anastomosis NEC
-INUK.G616.00,External capsule haemorrhage
-INUK.G64..13,Stroke due to cerebral arterial occlusion
-INUK.G65..00,Transient cerebral ischaemia
-INUK.G683.00,Sequelae of cerebral infarction
-INUK.G31y.00,Other acute and subacute ischaemic heart disease
-INUK.7921200,Autograft replacement of three coronary arteries NEC
-INUK.793H000,Percutaneous transluminal balloon dilation cardiac conduit
-INUK.G32..11,Healed myocardial infarction
-INUK.14NB.00,H/O: Peripheral vascular disease procedure
-INUK.792By00,Other specified repair of coronary artery
-INUK.7A50100,Revision of reconstruction involving iliac artery
-INUK.7A42011,Endarterectomy and patch repair of common iliac artery
-INUK.G73z011,Claudication
-INUK.G307000,Acute non-Q wave infarction
-INUK.14A..00,H/O: cardiovascular disease
-INUK.792z.00,Coronary artery operations NOS
-INUK.G618.00,"Intracerebral haemorrhage, multiple localized"
-INUK.7A47.15,Other emergency bypass of superficial femoral artery
-INUK.G664.00,Cerebellar stroke syndrome
-INUK.G630.00,Basilar artery occlusion
-INUK.7A4A100,Repair of popliteal artery NEC
-INUK.7A12112,Dacron aortofemoral Y graft
-INUK.7925.11,Creation of bypass from mammary artery to coronary artery
-INUK.7A43000,Repair of iliac artery NEC
-INUK.G30X000,Acute ST segment elevation myocardial infarction
-INUK.G309.00,Acute Q-wave infarct
-INUK.G31y300,Transient myocardial ischaemia
-INUK.G65zz00,Transient cerebral ischaemia NOS
-INUK.7927z00,Other open operation on coronary artery NOS
-INUK.G360.00,Haemopericardium/current comp folow acut myocard infarct
-INUK.G660.00,Middle cerebral artery syndrome
-INUK.14AZ.00,H/O: CVS disease NOS
-INUK.C107300,IDDM with peripheral circulatory disorder
-INUK.G32..00,Old myocardial infarction
-INUK.793G.00,Perc translumin balloon angioplasty stenting coronary artery
-INUK.322..00,ECG: myocardial ischaemia
-INUK.G653.00,Carotid artery syndrome hemispheric
-INUK.7920z00,Saphenous vein graft replacement coronary artery NOS
-INUK.M271400,Mixed venous and arterial leg ulcer
-INUK.G667.00,Left sided CVA
-INUK.G61X.00,"Intracerebral haemorrhage in hemisphere, unspecified"
-INUK.662Kz00,Angina control NOS
-INUK.C107400,NIDDM with peripheral circulatory disorder
-INUK.G742600,Embolism and thrombosis of the anterior tibial artery
-INUK.7921z00,Other autograft replacement of coronary artery NOS
-INUK.7A43011,Repair of common iliac artery NEC
-INUK.G631.12,"Thrombosis, carotid artery"
-INUK.7A4B300,Percutaneous transluminal embolectomy of popliteal artery
-INUK.G38z.00,"Postoperative myocardial infarction, unspecified"
-INUK.7920200,Saphenous vein graft replacement of three coronary arteries
-INUK.G740.12,Aortoiliac obstruction
-INUK.G742500,Embolism and thrombosis of the popliteal artery
-INUK.G742900,Embolism and thrombosis of a leg artery NOS
-INUK.7928.11,Percutaneous balloon coronary angioplasty
-INUK.R055000,[D]Failure of peripheral circulation
-INUK.G732100,Gangrene of foot
-INUK.793Gy00,OS perc translumina balloon angioplast stenting coronary art
-INUK.9N0p.00,Seen in stroke clinic
-INUK.G311z00,Preinfarction syndrome NOS
-INUK.7920.11,Saphenous vein graft bypass of coronary artery
-INUK.G702.00,Extremity artery atheroma
-INUK.7A49100,Endarterectomy and patch repair of popliteal artery
-INUK.7A4B900,Percutaneous transluminal insertion of stent femoral artery
-INUK.323Z.00,ECG: myocardial infarct NOS
-INUK.7A4A000,Repair of femoral artery NEC
-INUK.G350.00,Subsequent myocardial infarction of anterior wall
-INUK.8HBJ.00,Stroke / transient ischaemic attack referral
-INUK.G34y100,Chronic myocardial ischaemia
-INUK.7A4A.14,Other open operations on superficial femoral artery
-INUK.7A49000,Endarterectomy and patch repair of femoral artery
-INUK.SP07600,Coronary artery bypass graft occlusion
-INUK.7A12111,Aorto bifemoral graft
-INUK.7922100,Allograft replacement of two coronary arteries
-INUK.Gyu6D00,[X]Sequelae/other + unspecified cerebrovascular diseases
-INUK.R054200,[D]Gangrene of toe in diabetic
-INUK.662K100,Angina control - poor
-INUK.7A12312,Dacron aortoiliac Y graft
-INUK.662K000,Angina control - good
-INUK.G677300,Occlusion and stenosis of cerebellar arteries
-INUK.C108G00,Insulin dependent diab mell with peripheral angiopathy
-INUK.7A47000,Emerg bypass femoral art by fem/pop art anast c prosth NEC
-INUK.C109F00,Non-insulin-dependent d m with peripheral angiopath
-INUK.7A41300,Bypass iliac artery by femoral/femoral art anastomosis NEC
-INUK.G311500,Acute coronary syndrome
-INUK.Gyu6F00,"[X]Intracerebral haemorrhage in hemisphere, unspecified"
-INUK.7A10300,Axillo-unifemoral PTFE bypass graft
-INUK.Gyu6600,[X]Occlusion and stenosis of other cerebral arteries
-INUK.G731000,Buerger's disease
-INUK.G304.00,Posterior myocardial infarction NOS
-INUK.792Bz00,Repair of coronary artery NOS
+,code,list_code,code_level,code_parent,code_group,weight,job_id,created_date,updated_date,status_code,alt_label0,INUK.7A49z00,diagnostic_code,5,INUK.7A49.00,,,33379,02/10/2018,02/10/2018,V,Reconstruction of femoral or popliteal artery NOS2,INUK.G31..00,diagnostic_code,3,INUK.G3...00,I24,,33381,02/10/2018,02/10/2018,V,Other acute and subacute ischaemic heart disease4,INUK.G640.00,diagnostic_code,4,INUK.G64..00,I66.9,,33381,02/10/2018,02/10/2018,V,Cerebral thrombosis6,INUK.7A47600,diagnostic_code,5,INUK.7A47.00,,,33379,02/10/2018,02/10/2018,V,Emerg bypass femoral art by fem/tib a anast c vein graft NEC8,INUK.G307100,diagnostic_code,5,INUK.G307.00,I21.9,,33381,02/10/2018,02/10/2018,V,Acute non-ST segment elevation myocardial infarction10,INUK.G306.00,diagnostic_code,4,INUK.G30..00,I21.2,,33381,02/10/2018,02/10/2018,V,True posterior myocardial infarction13,INUK.Gyu3000,diagnostic_code,5,INUK.Gyu3.00,I20.8,,33381,02/10/2018,02/10/2018,V,[X]Other forms of angina pectoris15,INUK.G34yz00,diagnostic_code,5,INUK.G34y.00,I25.9,,33381,02/10/2018,02/10/2018,V,Other specified chronic ischaemic heart disease NOS17,INUK.14A4.00,diagnostic_code,4,INUK.14A..00,I21,,33381,02/10/2018,02/10/2018,V,H/O: myocardial infarct >6019,INUK.G64z000,diagnostic_code,5,INUK.G64z.00,I63.9,,33381,02/10/2018,02/10/2018,V,Brainstem infarction21,INUK.G351.00,diagnostic_code,4,INUK.G35..00,I22.1,,33381,02/10/2018,02/10/2018,V,Subsequent myocardial infarction of inferior wall23,INUK.G666.00,diagnostic_code,4,INUK.G66..00,G46.6,,33381,02/10/2018,02/10/2018,V,Pure sensory lacunar syndrome25,INUK.Gyu7400,diagnostic_code,5,INUK.Gyu7.00,I73.8,,33381,02/10/2018,02/10/2018,V,[X]Other specified peripheral vascular diseases27,INUK.7A48200,diagnostic_code,5,INUK.7A48.00,,,33379,02/10/2018,02/10/2018,V,Bypass femoral artery by fem/pop art anast c vein graft NEC29,INUK.7920100,diagnostic_code,5,INUK.7920.00,,,33379,02/10/2018,02/10/2018,V,Saphenous vein graft replacement of two coronary arteries31,INUK.7924300,diagnostic_code,5,INUK.7924.00,,,33379,02/10/2018,02/10/2018,V,Revision of bypass for four or more coronary arteries33,INUK.7922000,diagnostic_code,5,INUK.7922.00,,,33379,02/10/2018,02/10/2018,V,Allograft replacement of one coronary artery35,INUK.G362.00,diagnostic_code,4,INUK.G36..00,I23.2,,33381,02/10/2018,02/10/2018,V,Ventric septal defect/curr comp fol acut myocardal infarctn37,INUK.7920y00,diagnostic_code,5,INUK.7920.00,,,33379,02/10/2018,02/10/2018,V,Saphenous vein graft replacement of coronary artery OS39,INUK.7928200,diagnostic_code,5,INUK.7928.00,,,33379,02/10/2018,02/10/2018,V,Percut translum balloon angioplasty bypass graft coronary a41,INUK.G73y600,diagnostic_code,5,INUK.G73y.00,I73.8,,33381,02/10/2018,02/10/2018,V,Acroparaesthesia - unspecified44,INUK.G742z00,diagnostic_code,5,INUK.G742.00,I74.4,,33381,02/10/2018,02/10/2018,V,Peripheral arterial embolism and thrombosis NOS46,INUK.G33z600,diagnostic_code,5,INUK.G33z.00,I20.9,,33381,02/10/2018,02/10/2018,V,New onset angina48,INUK.7A4A211,diagnostic_code,5,INUK.7A4A.00,,,33379,02/10/2018,02/10/2018,V,Open thrombectomy of femoral artery50,INUK.7929500,diagnostic_code,5,INUK.7929.00,,,33379,02/10/2018,02/10/2018,V,Insertion of drug-eluting coronary artery stent52,INUK.G380.00,diagnostic_code,4,INUK.G38..00,I21.0,,33381,02/10/2018,02/10/2018,V,Postoperative transmural myocardial infarction anterior wall54,INUK.G64z.00,diagnostic_code,4,INUK.G64..00,I63.9,,33381,02/10/2018,02/10/2018,V,Cerebral infarction NOS56,INUK.G330000,diagnostic_code,5,INUK.G330.00,I20.8,,33381,02/10/2018,02/10/2018,V,Nocturnal angina58,INUK.7921100,diagnostic_code,5,INUK.7921.00,,,33379,02/10/2018,02/10/2018,V,Autograft replacement of two coronary arteries NEC60,INUK.7A47y00,diagnostic_code,5,INUK.7A47.00,,,33379,02/10/2018,02/10/2018,V,Other emergency bypass of femoral or popliteal artery OS62,INUK.G30y000,diagnostic_code,5,INUK.G30y.00,I21.9,,33381,02/10/2018,02/10/2018,V,Acute atrial infarction64,INUK.7923100,diagnostic_code,5,INUK.7923.00,,,33379,02/10/2018,02/10/2018,V,Prosthetic replacement of two coronary arteries66,INUK.7923000,diagnostic_code,5,INUK.7923.00,,,33379,02/10/2018,02/10/2018,V,Prosthetic replacement of one coronary artery68,INUK.G73z.00,diagnostic_code,4,INUK.G73..00,I73.9,,33381,02/10/2018,02/10/2018,V,Peripheral vascular disease NOS71,INUK.G301000,diagnostic_code,5,INUK.G301.00,I21.0,,33381,02/10/2018,02/10/2018,V,Acute anteroapical infarction73,INUK.7A4B200,diagnostic_code,5,INUK.7A4B.00,,,33379,02/10/2018,02/10/2018,V,Percutaneous transluminal embolectomy of femoral artery75,INUK.7929111,diagnostic_code,5,INUK.7929.00,,,33379,02/10/2018,02/10/2018,V,Percut translum coronary thrombolytic therapy- streptokinase77,INUK.792..00,diagnostic_code,3,INUK.79...00,,,33379,02/10/2018,02/10/2018,V,Coronary artery operations79,INUK.14A3.00,diagnostic_code,4,INUK.14A..00,I21,,33381,02/10/2018,02/10/2018,V,H/O: myocardial infarct <6081,INUK.793H.00,diagnostic_code,4,INUK.793..00,,,33379,02/10/2018,02/10/2018,V,Transluminal operations on cardiac conduit83,INUK.C10EG00,diagnostic_code,5,INUK.C10E.00,E10.5,,33381,02/10/2018,02/10/2018,V,Type 1 diabetes mellitus with peripheral angiopathy85,INUK.7924500,diagnostic_code,5,INUK.7924.00,,,33379,02/10/2018,02/10/2018,V,Revision of implantation of thoracic artery into heart87,INUK.G33z.00,diagnostic_code,4,INUK.G33..00,I20.9,,33381,02/10/2018,02/10/2018,V,Angina pectoris NOS89,INUK.G74y100,diagnostic_code,5,INUK.G74y.00,I74.5,,33381,02/10/2018,02/10/2018,V,Embolism and/or thrombosis of the internal iliac artery91,INUK.G613.00,diagnostic_code,4,INUK.G61..00,I61.4,,33381,02/10/2018,02/10/2018,V,Cerebellar haemorrhage93,INUK.G311.12,diagnostic_code,4,INUK.G31..00,I20.0,,33381,02/10/2018,02/10/2018,V,Impending infarction95,INUK.G366.00,diagnostic_code,4,INUK.G36..00,I23.6,,33381,02/10/2018,02/10/2018,V,"Thrombosis atrium,auric append&vent/curr comp foll acute MI"97,INUK.G310.11,diagnostic_code,4,INUK.G31..00,I24.1,,33381,02/10/2018,02/10/2018,V,Dressler's syndrome99,INUK.G665.00,diagnostic_code,4,INUK.G66..00,G46.5,,33381,02/10/2018,02/10/2018,V,Pure motor lacunar syndrome102,INUK.G33z700,diagnostic_code,5,INUK.G33z.00,I20.9,,33381,02/10/2018,02/10/2018,V,Stable angina104,INUK.7921y00,diagnostic_code,5,INUK.7921.00,,,33379,02/10/2018,02/10/2018,V,Other autograft replacement of coronary artery OS106,INUK.G61z.00,diagnostic_code,4,INUK.G61..00,I61.9,,33381,02/10/2018,02/10/2018,V,Intracerebral haemorrhage NOS108,INUK.7A47B00,diagnostic_code,5,INUK.7A47.00,,,33379,02/10/2018,02/10/2018,V,Emerg bypass pop art by pop/peron art anast c vein graft NEC110,INUK.G733.00,diagnostic_code,4,INUK.G73..00,I73.9,,33381,02/10/2018,02/10/2018,V,Ischaemic foot112,INUK.7926z00,diagnostic_code,5,INUK.7926.00,,,33379,02/10/2018,02/10/2018,V,Connection of other thoracic artery to coronary artery NOS114,INUK.G73..00,diagnostic_code,3,INUK.G7...00,I73,,33381,02/10/2018,02/10/2018,V,Other peripheral vascular disease116,INUK.G300.00,diagnostic_code,4,INUK.G30..00,I21.0,,33381,02/10/2018,02/10/2018,V,Acute anterolateral infarction118,INUK.G73y400,diagnostic_code,5,INUK.G73y.00,I73.8,,33381,02/10/2018,02/10/2018,V,Acroparaesthesia - Schultze's type120,INUK.G73y200,diagnostic_code,5,INUK.G73y.00,I73.8,,33381,02/10/2018,02/10/2018,V,Acrocyanosis122,INUK.793G000,diagnostic_code,5,INUK.793G.00,,,33379,02/10/2018,02/10/2018,V,Perc translum ball angio insert 1-2 drug elut stents cor art124,INUK.7A43.11,diagnostic_code,4,INUK.7A4..00,,,33379,02/10/2018,02/10/2018,V,Other open operations on common iliac artery126,INUK.A3A0F00,diagnostic_code,5,INUK.A3A0.00,A48.0,,33381,02/10/2018,02/10/2018,V,Gas gangrene-foot128,INUK.7A50200,diagnostic_code,5,INUK.7A50.00,,,33379,02/10/2018,02/10/2018,V,Revision of reconstruction involving femoral artery130,INUK.7922200,diagnostic_code,5,INUK.7922.00,,,33379,02/10/2018,02/10/2018,V,Allograft replacement of three coronary arteries132,INUK.7A48400,diagnostic_code,5,INUK.7A48.00,,,33379,02/10/2018,02/10/2018,V,Bypass femoral artery by fem/tib art anast c prosthesis NEC134,INUK.G332.00,diagnostic_code,4,INUK.G33..00,I20.1,,33381,02/10/2018,02/10/2018,V,Coronary artery spasm136,INUK.G731z00,diagnostic_code,5,INUK.G731.00,I73.1,,33381,02/10/2018,02/10/2018,V,Thromboangiitis obliterans NOS138,INUK.7925200,diagnostic_code,5,INUK.7925.00,,,33379,02/10/2018,02/10/2018,V,Single anast mammary art to left ant descend coronary art140,INUK.7927300,diagnostic_code,5,INUK.7927.00,,,33379,02/10/2018,02/10/2018,V,Transposition of coronary artery NEC142,INUK.793G300,diagnostic_code,5,INUK.793G.00,,,33379,02/10/2018,02/10/2018,V,Percutaneous cor balloon angiop 3 more stents cor art NEC144,INUK.7925311,diagnostic_code,5,INUK.7925.00,,,33379,02/10/2018,02/10/2018,V,LIMA single anastomosis146,INUK.G331.00,diagnostic_code,4,INUK.G33..00,I20.1,,33381,02/10/2018,02/10/2018,V,Prinzmetal's angina148,INUK.G30..12,diagnostic_code,3,INUK.G3...00,I21.9,,33381,02/10/2018,02/10/2018,V,Coronary thrombosis150,INUK.7A48.15,diagnostic_code,4,INUK.7A4..00,,,33379,02/10/2018,02/10/2018,V,Other bypass of popliteal artery152,INUK.G73y511,diagnostic_code,5,INUK.G73y.00,I73.8,,33381,02/10/2018,02/10/2018,V,Nothnagel's vasomotor acroparaesthesia154,INUK.14F7.00,diagnostic_code,4,INUK.14F..00,,,33379,02/10/2018,02/10/2018,V,H/O: arterial lower limb ulcer156,INUK.G35X.00,diagnostic_code,4,INUK.G35..00,I22.9,,33381,02/10/2018,02/10/2018,V,Subsequent myocardial infarction of unspecified site158,INUK.7A44y00,diagnostic_code,5,INUK.7A44.00,,,33379,02/10/2018,02/10/2018,V,Other specified transluminal operation on iliac artery160,INUK.7925312,diagnostic_code,5,INUK.7925.00,,,33379,02/10/2018,02/10/2018,V,RIMA single anastomosis162,INUK.7A48.16,diagnostic_code,4,INUK.7A4..00,,,33379,02/10/2018,02/10/2018,V,Other bypass of superficial femoral artery164,INUK.Gyu6G00,diagnostic_code,5,INUK.Gyu6.00,I63.2,,33381,02/10/2018,02/10/2018,V,[X]Cereb infarct due unsp occlus/stenos precerebr arteries167,INUK.7926100,diagnostic_code,5,INUK.7926.00,,,33379,02/10/2018,02/10/2018,V,Double implant thoracic arteries into coronary arteries NEC169,INUK.14AH.00,diagnostic_code,4,INUK.14A..00,I21,,33381,02/10/2018,02/10/2018,V,H/O: Myocardial infarction in last year171,INUK.7920300,diagnostic_code,5,INUK.7920.00,,,33379,02/10/2018,02/10/2018,V,Saphenous vein graft replacement of four+ coronary arteries173,INUK.7A42012,diagnostic_code,5,INUK.7A42.00,,,33379,02/10/2018,02/10/2018,V,Iliac endarterectomy and patch175,INUK.G702z00,diagnostic_code,5,INUK.G702.00,I70.2,,33381,02/10/2018,02/10/2018,V,Extremity artery atheroma NOS177,INUK.7925011,diagnostic_code,5,INUK.7925.00,,,33379,02/10/2018,02/10/2018,V,LIMA sequential anastomosis179,INUK.G74y300,diagnostic_code,5,INUK.G74y.00,I74.5,,33381,02/10/2018,02/10/2018,V,Embolism and thrombosis of the iliac artery unspecified181,INUK.G610.00,diagnostic_code,4,INUK.G61..00,I61.1,,33381,02/10/2018,02/10/2018,V,Cortical haemorrhage183,INUK.7A42.11,diagnostic_code,4,INUK.7A4..00,,,33379,02/10/2018,02/10/2018,V,Reconstruction of common iliac artery185,INUK.7A49500,diagnostic_code,5,INUK.7A49.00,,,33379,02/10/2018,02/10/2018,V,Profundoplasty and patch repair of popliteal artery187,INUK.G611.00,diagnostic_code,4,INUK.G61..00,I61.0,,33381,02/10/2018,02/10/2018,V,Internal capsule haemorrhage189,INUK.793G200,diagnostic_code,5,INUK.793G.00,,,33379,02/10/2018,02/10/2018,V,Perc translum balloon angioplasty insert 1-2 stents cor art191,INUK.7A47200,diagnostic_code,5,INUK.7A47.00,,,33379,02/10/2018,02/10/2018,V,Emerg bypass femoral art by fem/pop a anast c vein graft NEC193,INUK.G382.00,diagnostic_code,4,INUK.G38..00,I21.2,,33381,02/10/2018,02/10/2018,V,Postoperative transmural myocardial infarction other sites195,INUK.G731.00,diagnostic_code,4,INUK.G73..00,I73.1,,33381,02/10/2018,02/10/2018,V,Thromboangiitis obliterans197,INUK.G501.00,diagnostic_code,4,INUK.G50..00,I23.8,,33381,02/10/2018,02/10/2018,V,Post infarction pericarditis199,INUK.G64z.11,diagnostic_code,4,INUK.G64..00,I63.9,,33381,02/10/2018,02/10/2018,V,Brainstem infarction NOS201,INUK.1477.00,diagnostic_code,4,INUK.147..00,I67.9,,33381,02/10/2018,02/10/2018,V,H/O: cerebrovascular disease203,INUK.7921.11,diagnostic_code,4,INUK.792..00,,,33379,02/10/2018,02/10/2018,V,Other autograft bypass of coronary artery205,INUK.7A48000,diagnostic_code,5,INUK.7A48.00,,,33379,02/10/2018,02/10/2018,V,Bypass femoral artery by fem/pop art anast c prosthesis NEC207,INUK.7925012,diagnostic_code,5,INUK.7925.00,,,33379,02/10/2018,02/10/2018,V,RIMA sequential anastomosis209,INUK.7A44000,diagnostic_code,5,INUK.7A44.00,,,33379,02/10/2018,02/10/2018,V,Percutaneous transluminal angioplasty of iliac artery211,INUK.7A49900,diagnostic_code,5,INUK.7A49.00,,,33379,02/10/2018,02/10/2018,V,Reconstruction of popliteal artery with vein graft213,INUK.G305.00,diagnostic_code,4,INUK.G30..00,I21.2,,33381,02/10/2018,02/10/2018,V,Lateral myocardial infarction NOS215,INUK.Gyu3500,diagnostic_code,5,INUK.Gyu3.00,I22.8,,33381,02/10/2018,02/10/2018,V,[X]Subsequent myocardial infarction of other sites217,INUK.7A49200,diagnostic_code,5,INUK.7A49.00,,,33379,02/10/2018,02/10/2018,V,Endarterectomy of femoral artery NEC219,INUK.7A4B400,diagnostic_code,5,INUK.7A4B.00,,,33379,02/10/2018,02/10/2018,V,Percutaneous transluminal embolisation of femoral artery221,INUK.792Cz00,diagnostic_code,5,INUK.792C.00,,,33379,02/10/2018,02/10/2018,V,Replacement of coronary artery NOS223,INUK.7A42y00,diagnostic_code,5,INUK.7A42.00,,,33379,02/10/2018,02/10/2018,V,Other specified reconstruction of iliac artery225,INUK.G30..13,diagnostic_code,3,INUK.G3...00,I21.9,,33381,02/10/2018,02/10/2018,V,Cardiac rupture following myocardial infarction (MI)227,INUK.G30..17,diagnostic_code,3,INUK.G3...00,I21.9,,33381,02/10/2018,02/10/2018,V,Silent myocardial infarction229,INUK.7921000,diagnostic_code,5,INUK.7921.00,,,33379,02/10/2018,02/10/2018,V,Autograft replacement of one coronary artery NEC231,INUK.322Z.00,diagnostic_code,4,INUK.322..00,,,33379,02/10/2018,02/10/2018,V,ECG: myocardial ischaemia NOS233,INUK.7A4Ay00,diagnostic_code,5,INUK.7A4A.00,,,33379,02/10/2018,02/10/2018,V,Other open operation on femoral or popliteal artery OS235,INUK.14AW.00,diagnostic_code,4,INUK.14A..00,,,33379,02/10/2018,02/10/2018,V,H/O acute coronary syndrome237,INUK.G303.00,diagnostic_code,4,INUK.G30..00,I21.1,,33381,02/10/2018,02/10/2018,V,Acute inferoposterior infarction239,INUK.7A41900,diagnostic_code,5,INUK.7A41.00,,,33379,02/10/2018,02/10/2018,V,Bypass common iliac artery by aorta/com iliac art anast NEC241,INUK.7922z00,diagnostic_code,5,INUK.7922.00,,,33379,02/10/2018,02/10/2018,V,Allograft replacement of coronary artery NOS243,INUK.G65y.00,diagnostic_code,4,INUK.G65..00,G45.8,,33381,02/10/2018,02/10/2018,V,Other transient cerebral ischaemia245,INUK.7A41z00,diagnostic_code,5,INUK.7A41.00,,,33379,02/10/2018,02/10/2018,V,Other bypass of iliac artery NOS247,INUK.7A12100,diagnostic_code,5,INUK.7A12.00,,,33379,02/10/2018,02/10/2018,V,Bypass bifurc aorta by anastom aorta to femoral artery NEC249,INUK.G73z000,diagnostic_code,5,INUK.G73z.00,I73.9,,33381,02/10/2018,02/10/2018,V,Intermittent claudication251,INUK.7923300,diagnostic_code,5,INUK.7923.00,,,33379,02/10/2018,02/10/2018,V,Prosthetic replacement of four or more coronary arteries253,INUK.G31y100,diagnostic_code,5,INUK.G31y.00,I24.8,,33381,02/10/2018,02/10/2018,V,Microinfarction of heart255,INUK.G676000,diagnostic_code,5,INUK.G676.00,I63.6,,33381,02/10/2018,02/10/2018,V,"Cereb infarct due cerebral venous thrombosis, nonpyogenic"257,INUK.7A41200,diagnostic_code,5,INUK.7A41.00,,,33379,02/10/2018,02/10/2018,V,Emerg bypass iliac artery by femoral/femoral art anast NEC259,INUK.G63z.00,diagnostic_code,4,INUK.G63..00,I65.9,,33381,02/10/2018,02/10/2018,V,Precerebral artery occlusion NOS261,INUK.14AJ.00,diagnostic_code,4,INUK.14A..00,I20,,33381,02/10/2018,02/10/2018,V,H/O: Angina in last year263,INUK.7924z00,diagnostic_code,5,INUK.7924.00,,,33379,02/10/2018,02/10/2018,V,Revision of bypass for coronary artery NOS265,INUK.G31yz00,diagnostic_code,5,INUK.G31y.00,I24.9,,33381,02/10/2018,02/10/2018,V,Other acute and subacute ischaemic heart disease NOS267,INUK.7A41211,diagnostic_code,5,INUK.7A41.00,,,33379,02/10/2018,02/10/2018,V,Emergency femoro-femoral prosthetic cross over graft269,INUK.7A48y00,diagnostic_code,5,INUK.7A48.00,,,33379,02/10/2018,02/10/2018,V,Other bypass of femoral artery or popliteal artery OS271,INUK.7A6H400,diagnostic_code,5,INUK.7A6H.00,,,33379,02/10/2018,02/10/2018,V,Percutaneous transluminal angioplasty of vascular graft273,INUK.7A4A212,diagnostic_code,5,INUK.7A4A.00,,,33379,02/10/2018,02/10/2018,V,Open femoral embolectomy275,INUK.7A41F00,diagnostic_code,5,INUK.7A41.00,,,33379,02/10/2018,02/10/2018,V,Ilio-femoral prosthetic cross over graft277,INUK.7922.11,diagnostic_code,4,INUK.792..00,,,33379,02/10/2018,02/10/2018,V,Allograft bypass of coronary artery279,INUK.7A4B100,diagnostic_code,5,INUK.7A4B.00,,,33379,02/10/2018,02/10/2018,V,Percutaneous transluminal angioplasty of popliteal artery281,INUK.7A50300,diagnostic_code,5,INUK.7A50.00,,,33379,02/10/2018,02/10/2018,V,Revision of reconstruction of popliteal artery283,INUK.G74y200,diagnostic_code,5,INUK.G74y.00,I74.5,,33381,02/10/2018,02/10/2018,V,Embolism and/or thrombosis of the external iliac artery285,INUK.14A7.11,diagnostic_code,4,INUK.14A..00,G46,,33381,02/10/2018,02/10/2018,V,H/O: CVA287,INUK.7A44400,diagnostic_code,5,INUK.7A44.00,,,33379,02/10/2018,02/10/2018,V,Percutaneous transluminal insertion of iliac artery stent289,INUK.14A7.00,diagnostic_code,4,INUK.14A..00,G46,,33381,02/10/2018,02/10/2018,V,H/O: CVA/stroke291,INUK.7A48A00,diagnostic_code,5,INUK.7A48.00,,,33379,02/10/2018,02/10/2018,V,Bypass femoral artery by fem/peron a anast c vein graft NEC293,INUK.7A41B00,diagnostic_code,5,INUK.7A41.00,,,33379,02/10/2018,02/10/2018,V,Bypass leg artery by aorta/com femoral art anastomosis NEC295,INUK.G66..13,diagnostic_code,3,INUK.G6...00,I64,,33381,02/10/2018,02/10/2018,V,CVA - Cerebrovascular accident unspecified297,INUK.G363.00,diagnostic_code,4,INUK.G36..00,I23.3,,33381,02/10/2018,02/10/2018,V,Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI299,INUK.7922300,diagnostic_code,5,INUK.7922.00,,,33379,02/10/2018,02/10/2018,V,Allograft replacement of four or more coronary arteries301,INUK.G361.00,diagnostic_code,4,INUK.G36..00,I23.1,,33381,02/10/2018,02/10/2018,V,Atrial septal defect/curr comp folow acut myocardal infarct303,INUK.G73zz00,diagnostic_code,5,INUK.G73z.00,I73.9,,33381,02/10/2018,02/10/2018,V,Peripheral vascular disease NOS305,INUK.Gyu6C00,diagnostic_code,5,INUK.Gyu6.00,I69.4,,33381,02/10/2018,02/10/2018,V,"[X]Sequelae of stroke,not specfd as h'morrhage or infarction"307,INUK.G612.00,diagnostic_code,4,INUK.G61..00,I61.0,,33381,02/10/2018,02/10/2018,V,Basal nucleus haemorrhage311,INUK.G311.00,diagnostic_code,4,INUK.G31..00,I20.0,,33381,02/10/2018,02/10/2018,V,Preinfarction syndrome313,INUK.793G100,diagnostic_code,5,INUK.793G.00,,,33379,02/10/2018,02/10/2018,V,Perc tran ball angio ins 3 or more drug elut stents cor art315,INUK.7A49600,diagnostic_code,5,INUK.7A49.00,,,33379,02/10/2018,02/10/2018,V,Profundoplasty of femoral artery NEC317,INUK.G63..00,diagnostic_code,3,INUK.G6...00,I65,,33381,02/10/2018,02/10/2018,V,Precerebral arterial occlusion319,INUK.7A47.16,diagnostic_code,4,INUK.7A4..00,,,33379,02/10/2018,02/10/2018,V,Other emergency bypass of femoral artery321,INUK.8CRB.00,diagnostic_code,4,INUK.8CR..00,,,33379,02/10/2018,02/10/2018,V,Transient ischaemic attack clinical management plan323,INUK.792Dz00,diagnostic_code,5,INUK.792D.00,,,33379,02/10/2018,02/10/2018,V,Other bypass of coronary artery NOS327,INUK.Gyu3400,diagnostic_code,5,INUK.Gyu3.00,I21.3,,33381,02/10/2018,02/10/2018,V,[X]Acute transmural myocardial infarction of unspecif site329,INUK.7A50.00,diagnostic_code,4,INUK.7A5..00,,,33379,02/10/2018,02/10/2018,V,Revision of reconstruction of artery331,INUK.7A50000,diagnostic_code,5,INUK.7A50.00,,,33379,02/10/2018,02/10/2018,V,Revision of reconstruction involving aorta333,INUK.G66..12,diagnostic_code,3,INUK.G6...00,I64,,33381,02/10/2018,02/10/2018,V,Stroke unspecified335,INUK.G732000,diagnostic_code,5,INUK.G732.00,R02,,33381,02/10/2018,02/10/2018,V,Gangrene of toe337,INUK.G36..00,diagnostic_code,3,INUK.G3...00,I23,,33381,02/10/2018,02/10/2018,V,Certain current complication follow acute myocardial infarct339,INUK.G64z300,diagnostic_code,5,INUK.G64z.00,I63.9,,33381,02/10/2018,02/10/2018,V,Right sided cerebral infarction341,INUK.792D.00,diagnostic_code,4,INUK.792..00,,,33379,02/10/2018,02/10/2018,V,Other bypass of coronary artery343,INUK.G63y000,diagnostic_code,5,INUK.G63y.00,I63.0,,33381,02/10/2018,02/10/2018,V,Cerebral infarct due to thrombosis of precerebral arteries345,INUK.792..11,diagnostic_code,3,INUK.79...00,,,33379,02/10/2018,02/10/2018,V,Coronary artery bypass graft operations347,INUK.7923.11,diagnostic_code,4,INUK.792..00,,,33379,02/10/2018,02/10/2018,V,Prosthetic bypass of coronary artery349,INUK.7A48100,diagnostic_code,5,INUK.7A48.00,,,33379,02/10/2018,02/10/2018,V,Bypass popliteal artery by pop/pop a anast c prosthesis NEC351,INUK.7929600,diagnostic_code,5,INUK.7929.00,,,33379,02/10/2018,02/10/2018,V,Percutaneous transluminal atherectomy of coronary artery353,INUK.G633.00,diagnostic_code,4,INUK.G63..00,I65.3,,33381,02/10/2018,02/10/2018,V,Multiple and bilateral precerebral arterial occlusion355,INUK.7929z00,diagnostic_code,5,INUK.7929.00,,,33379,02/10/2018,02/10/2018,V,Other therapeutic transluminal op on coronary artery NOS357,INUK.G677100,diagnostic_code,5,INUK.G677.00,I66.1,,33381,02/10/2018,02/10/2018,V,Occlusion and stenosis of anterior cerebral artery359,INUK.7A49.15,diagnostic_code,4,INUK.7A4..00,,,33379,02/10/2018,02/10/2018,V,Reconstruction of superficial femoral artery361,INUK.G38..00,diagnostic_code,3,INUK.G3...00,I21,,33381,02/10/2018,02/10/2018,V,Postoperative myocardial infarction363,INUK.G30z.00,diagnostic_code,4,INUK.G30..00,I21.9,,33381,02/10/2018,02/10/2018,V,Acute myocardial infarction NOS365,INUK.7A48z00,diagnostic_code,5,INUK.7A48.00,,,33379,02/10/2018,02/10/2018,V,Other bypass of femoral artery or popliteal artery NOS367,INUK.7A49.11,diagnostic_code,4,INUK.7A4..00,,,33379,02/10/2018,02/10/2018,V,Reconstruction of common femoral artery369,INUK.G312.00,diagnostic_code,4,INUK.G31..00,I24.0,,33381,02/10/2018,02/10/2018,V,Coronary thrombosis not resulting in myocardial infarction371,INUK.G73y100,diagnostic_code,5,INUK.G73y.00,I79.2,,33381,02/10/2018,02/10/2018,V,Peripheral angiopathic disease EC NOS373,INUK.G68W.00,diagnostic_code,4,INUK.G68..00,I69.8,,33381,02/10/2018,02/10/2018,V,Sequelae/other + unspecified cerebrovascular diseases375,INUK.G364.00,diagnostic_code,4,INUK.G36..00,I23.4,,33381,02/10/2018,02/10/2018,V,Ruptur chordae tendinae/curr comp fol acute myocard infarct377,INUK.14AF.00,diagnostic_code,4,INUK.14A..00,I60,,33381,02/10/2018,02/10/2018,V,H/O sub-arachnoid haemorrhage379,INUK.7A4A700,diagnostic_code,5,INUK.7A4A.00,,,33379,02/10/2018,02/10/2018,V,Repair of femoral artery with temporary silastic shunt381,INUK.G65z100,diagnostic_code,5,INUK.G65z.00,I64,,33381,02/10/2018,02/10/2018,V,Intermittent cerebral ischaemia383,INUK.7926300,diagnostic_code,5,INUK.7926.00,,,33379,02/10/2018,02/10/2018,V,Single implantation thoracic artery into coronary artery NEC385,INUK.G654.00,diagnostic_code,4,INUK.G65..00,G45.2,,33381,02/10/2018,02/10/2018,V,Multiple and bilateral precerebral artery syndromes387,INUK.C107100,diagnostic_code,5,INUK.C107.00,E11.5,,33381,02/10/2018,02/10/2018,V,"Diabetes mellitus, adult, + peripheral circulatory disorder"389,INUK.7A48.14,diagnostic_code,4,INUK.7A4..00,,,33379,02/10/2018,02/10/2018,V,Other bypass of femoral artery391,INUK.G302.00,diagnostic_code,4,INUK.G30..00,I21.1,,33381,02/10/2018,02/10/2018,V,Acute inferolateral infarction393,INUK.G365.00,diagnostic_code,4,INUK.G36..00,I23.5,,33381,02/10/2018,02/10/2018,V,Rupture papillary muscle/curr comp fol acute myocard infarct395,INUK.G6W..00,diagnostic_code,3,INUK.G6...00,I63.2,,33381,02/10/2018,02/10/2018,V,Cereb infarct due unsp occlus/stenos precerebr arteries397,INUK.G33z500,diagnostic_code,5,INUK.G33z.00,I20.9,,33381,02/10/2018,02/10/2018,V,Post infarct angina399,INUK.7927y00,diagnostic_code,5,INUK.7927.00,,,33379,02/10/2018,02/10/2018,V,Other specified other open operation on coronary artery401,INUK.7A12000,diagnostic_code,5,INUK.7A12.00,,,33379,02/10/2018,02/10/2018,V,Emerg bypass bifurc aorta by anast aorta to femoral artery403,INUK.792Ay00,diagnostic_code,5,INUK.792A.00,,,33379,02/10/2018,02/10/2018,V,Diagnostic transluminal operation on coronary artery OS405,INUK.7929100,diagnostic_code,5,INUK.7929.00,,,33379,02/10/2018,02/10/2018,V,Percut transluminal coronary thrombolysis with streptokinase407,INUK.G61..12,diagnostic_code,3,INUK.G6...00,I61,,33381,02/10/2018,02/10/2018,V,Stroke due to intracerebral haemorrhage409,INUK.7924100,diagnostic_code,5,INUK.7924.00,,,33379,02/10/2018,02/10/2018,V,Revision of bypass for two coronary arteries411,INUK.G73y700,diagnostic_code,5,INUK.G73y.00,I73.8,,33381,02/10/2018,02/10/2018,V,Erythrocyanosis413,INUK.G34y.00,diagnostic_code,4,INUK.G34..00,I25.8,,33381,02/10/2018,02/10/2018,V,Other specified chronic ischaemic heart disease415,INUK.7A4A300,diagnostic_code,5,INUK.7A4A.00,,,33379,02/10/2018,02/10/2018,V,Open embolectomy popliteal artery417,INUK.M271000,diagnostic_code,5,INUK.M271.00,E14.5,,33381,02/10/2018,02/10/2018,V,Ischaemic ulcer diabetic foot419,INUK.7928300,diagnostic_code,5,INUK.7928.00,,,33379,02/10/2018,02/10/2018,V,Percut translum cutting balloon angioplasty coronary artery421,INUK.G61..00,diagnostic_code,3,INUK.G6...00,I61,,33381,02/10/2018,02/10/2018,V,Intracerebral haemorrhage423,INUK.7A42100,diagnostic_code,5,INUK.7A42.00,,,33379,02/10/2018,02/10/2018,V,Endarterectomy of iliac artery NEC425,INUK.G32..12,diagnostic_code,3,INUK.G3...00,I25.2,,33381,02/10/2018,02/10/2018,V,Personal history of myocardial infarction427,INUK.7A48600,diagnostic_code,5,INUK.7A48.00,,,33379,02/10/2018,02/10/2018,V,Bypass femoral artery by fem/tib art anast c vein graft NEC429,INUK.G700.11,diagnostic_code,4,INUK.G70..00,I70.0,,33381,02/10/2018,02/10/2018,V,Aorto-iliac disease431,INUK.7923200,diagnostic_code,5,INUK.7923.00,,,33379,02/10/2018,02/10/2018,V,Prosthetic replacement of three coronary arteries433,INUK.7A49800,diagnostic_code,5,INUK.7A49.00,,,33379,02/10/2018,02/10/2018,V,Reconstruction of femoral artery with vein graft435,INUK.7A4A200,diagnostic_code,5,INUK.7A4A.00,,,33379,02/10/2018,02/10/2018,V,Open embolectomy of femoral artery437,INUK.7922y00,diagnostic_code,5,INUK.7922.00,,,33379,02/10/2018,02/10/2018,V,Other specified allograft replacement of coronary artery439,INUK.Gyu6200,diagnostic_code,5,INUK.Gyu6.00,I61.8,,33381,02/10/2018,02/10/2018,V,[X]Other intracerebral haemorrhage441,INUK.7A6G100,diagnostic_code,5,INUK.7A6G.00,,,33379,02/10/2018,02/10/2018,V,Peroperative angioplasty443,INUK.7925000,diagnostic_code,5,INUK.7925.00,,,33379,02/10/2018,02/10/2018,V,Double anastomosis of mammary arteries to coronary arteries445,INUK.G30..14,diagnostic_code,3,INUK.G3...00,I21.9,,33381,02/10/2018,02/10/2018,V,Heart attack447,INUK.7A10100,diagnostic_code,5,INUK.7A10.00,,,33379,02/10/2018,02/10/2018,V,Bypass aorta by anastomosis axillary to femoral artery NEC449,INUK.7927400,diagnostic_code,5,INUK.7927.00,,,33379,02/10/2018,02/10/2018,V,Exploration of coronary artery451,INUK.R055011,diagnostic_code,5,INUK.R055.00,R57.9,,33381,02/10/2018,02/10/2018,V,[D]Peripheral circulatory failure453,INUK.G383.00,diagnostic_code,4,INUK.G38..00,I21.3,,33381,02/10/2018,02/10/2018,V,Postoperative transmural myocardial infarction unspec site455,INUK.8HTQ.00,diagnostic_code,4,INUK.8HT..00,,,33379,02/10/2018,02/10/2018,V,Referral to stroke clinic457,INUK.G34z.00,diagnostic_code,4,INUK.G34..00,I25.9,,33381,02/10/2018,02/10/2018,V,Other chronic ischaemic heart disease NOS459,INUK.7A4A311,diagnostic_code,5,INUK.7A4A.00,,,33379,02/10/2018,02/10/2018,V,Open thrombectomy of popliteal artery461,INUK.7925100,diagnostic_code,5,INUK.7925.00,,,33379,02/10/2018,02/10/2018,V,Double implant of mammary arteries into coronary arteries463,INUK.G30..15,diagnostic_code,3,INUK.G3...00,I21.9,,33381,02/10/2018,02/10/2018,V,MI - acute myocardial infarction465,INUK.G63y100,diagnostic_code,5,INUK.G63y.00,I63.1,,33381,02/10/2018,02/10/2018,V,Cerebral infarction due to embolism of precerebral arteries467,INUK.7923y00,diagnostic_code,5,INUK.7923.00,,,33379,02/10/2018,02/10/2018,V,Other specified prosthetic replacement of coronary artery469,INUK.G34y000,diagnostic_code,5,INUK.G34y.00,I25.8,,33381,02/10/2018,02/10/2018,V,Chronic coronary insufficiency471,INUK.7929300,diagnostic_code,5,INUK.7929.00,,,33379,02/10/2018,02/10/2018,V,Rotary blade coronary angioplasty473,INUK.G632.00,diagnostic_code,4,INUK.G63..00,I65.0,,33381,02/10/2018,02/10/2018,V,Vertebral artery occlusion475,INUK.G641.11,diagnostic_code,4,INUK.G64..00,I66.9,,33381,02/10/2018,02/10/2018,V,Cerebral embolus477,INUK.792C.00,diagnostic_code,4,INUK.792..00,,,33379,02/10/2018,02/10/2018,V,Other replacement of coronary artery479,INUK.G64z100,diagnostic_code,5,INUK.G64z.00,I66.3,,33381,02/10/2018,02/10/2018,V,Wallenberg syndrome481,INUK.7928z00,diagnostic_code,5,INUK.7928.00,,,33379,02/10/2018,02/10/2018,V,Transluminal balloon angioplasty of coronary artery NOS483,INUK.7A43300,diagnostic_code,5,INUK.7A43.00,,,33379,02/10/2018,02/10/2018,V,Open insertion of iliac artery stent486,INUK.G30..11,diagnostic_code,3,INUK.G3...00,I21.9,,33381,02/10/2018,02/10/2018,V,Attack - heart489,INUK.G308.00,diagnostic_code,4,INUK.G30..00,I21.1,,33381,02/10/2018,02/10/2018,V,Inferior myocardial infarction NOS491,INUK.7P24200,diagnostic_code,5,INUK.7P24.00,,,33379,02/10/2018,02/10/2018,V,Delivery of rehabilitation for stroke493,INUK.G66..11,diagnostic_code,3,INUK.G6...00,I64,,33381,02/10/2018,02/10/2018,V,CVA unspecified495,INUK.G30..00,diagnostic_code,3,INUK.G3...00,I21.9,,33381,02/10/2018,02/10/2018,V,Acute myocardial infarction497,INUK.7A41y00,diagnostic_code,5,INUK.7A41.00,,,33379,02/10/2018,02/10/2018,V,Other specified other bypass of iliac artery499,INUK.7A10000,diagnostic_code,5,INUK.7A10.00,,,33379,02/10/2018,02/10/2018,V,Emerg aortic bypass by anastomosis axillary to femoral art501,INUK.8HHM.00,diagnostic_code,4,INUK.8HH..00,,,33379,02/10/2018,02/10/2018,V,Ref to multidisciplinary stroke function improvement service503,INUK.G30..16,diagnostic_code,3,INUK.G3...00,I21.9,,33381,02/10/2018,02/10/2018,V,Thrombosis - coronary505,INUK.G64..00,diagnostic_code,3,INUK.G6...00,I66.9,,33381,02/10/2018,02/10/2018,V,Cerebral arterial occlusion507,INUK.7A48E00,diagnostic_code,5,INUK.7A48.00,,,33379,02/10/2018,02/10/2018,V,Femoro-femoral prosthetic cross over graft509,INUK.G73..12,diagnostic_code,3,INUK.G7...00,I73,,33381,02/10/2018,02/10/2018,V,Ischaemia of legs511,INUK.G311300,diagnostic_code,5,INUK.G311.00,I20.0,,33381,02/10/2018,02/10/2018,V,Refractory angina513,INUK.7A47100,diagnostic_code,5,INUK.7A47.00,,,33379,02/10/2018,02/10/2018,V,Emerg bypass popliteal art by pop/pop art anast c prosth NEC515,INUK.ZV45L00,diagnostic_code,5,INUK.ZV45.00,Z95.5,,33381,02/10/2018,02/10/2018,V,[V]Status following coronary angioplasty NOS517,INUK.G30y.00,diagnostic_code,4,INUK.G30..00,I21.9,,33381,02/10/2018,02/10/2018,V,Other acute myocardial infarction519,INUK.G641000,diagnostic_code,5,INUK.G641.00,I63.4,,33381,02/10/2018,02/10/2018,V,Cerebral infarction due to embolism of cerebral arteries521,INUK.G614.00,diagnostic_code,4,INUK.G61..00,I61.3,,33381,02/10/2018,02/10/2018,V,Pontine haemorrhage523,INUK.7A4A.13,diagnostic_code,4,INUK.7A4..00,,,33379,02/10/2018,02/10/2018,V,Other open operations on popliteal artery525,INUK.2G63.00,diagnostic_code,4,INUK.2G6..00,,,33379,02/10/2018,02/10/2018,V,Ischaemic toe527,INUK.ZV45K11,diagnostic_code,5,INUK.ZV45.00,Z95.1,,33381,02/10/2018,02/10/2018,V,[V]Presence of coronary artery bypass graft - CABG529,INUK.7929400,diagnostic_code,5,INUK.7929.00,,,33379,02/10/2018,02/10/2018,V,Insertion of coronary artery stent531,INUK.G31y200,diagnostic_code,5,INUK.G31y.00,I24.8,,33381,02/10/2018,02/10/2018,V,Subendocardial ischaemia533,INUK.Gyu6300,diagnostic_code,5,INUK.Gyu6.00,I63.5,,33381,02/10/2018,02/10/2018,V,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs535,INUK.R054300,diagnostic_code,5,INUK.R054.00,E14.5,,33381,02/10/2018,02/10/2018,V,[D]Widespread diabetic foot gangrene537,INUK.G732.00,diagnostic_code,4,INUK.G73..00,R02,,33381,02/10/2018,02/10/2018,V,Peripheral gangrene539,INUK.323..00,diagnostic_code,3,INUK.32...00,,,33379,02/10/2018,02/10/2018,V,ECG: myocardial infarction541,INUK.G681.00,diagnostic_code,4,INUK.G68..00,I69.1,,33381,02/10/2018,02/10/2018,V,Sequelae of intracerebral haemorrhage543,INUK.792Cy00,diagnostic_code,5,INUK.792C.00,,,33379,02/10/2018,02/10/2018,V,Other specified replacement of coronary artery545,INUK.G31y000,diagnostic_code,5,INUK.G31y.00,I24.8,,33381,02/10/2018,02/10/2018,V,Acute coronary insufficiency547,INUK.G35..00,diagnostic_code,3,INUK.G3...00,I22,,33381,02/10/2018,02/10/2018,V,Subsequent myocardial infarction549,INUK.C10FF00,diagnostic_code,5,INUK.C10F.00,E11.5,,33381,02/10/2018,02/10/2018,V,Type 2 diabetes mellitus with peripheral angiopathy551,INUK.G652.00,diagnostic_code,4,INUK.G65..00,G45.8,,33381,02/10/2018,02/10/2018,V,Subclavian steal syndrome553,INUK.792Az00,diagnostic_code,5,INUK.792A.00,,,33379,02/10/2018,02/10/2018,V,Diagnostic transluminal operation on coronary artery NOS555,INUK.G353.00,diagnostic_code,4,INUK.G35..00,I22.8,,33381,02/10/2018,02/10/2018,V,Subsequent myocardial infarction of other sites557,INUK.7A4A.00,diagnostic_code,4,INUK.7A4..00,,,33379,02/10/2018,02/10/2018,V,Other open operations on femoral artery or popliteal artery559,INUK.7A43100,diagnostic_code,5,INUK.7A43.00,,,33379,02/10/2018,02/10/2018,V,Open embolectomy of iliac artery561,INUK.793Gz00,diagnostic_code,5,INUK.793G.00,,,33379,02/10/2018,02/10/2018,V,Perc translum balloon angioplasty stenting coronary art NOS563,INUK.7A4A800,diagnostic_code,5,INUK.7A4A.00,,,33379,02/10/2018,02/10/2018,V,Repair of popliteal artery with temporary silastic shunt565,INUK.C109F12,diagnostic_code,5,INUK.C109.00,E11.5,,33381,02/10/2018,02/10/2018,V,Type 2 diabetes mellitus with peripheral angiopathy567,INUK.7A10200,diagnostic_code,5,INUK.7A10.00,,,33379,02/10/2018,02/10/2018,V,Axillo-bifemoral bypass graft569,INUK.7A4B500,diagnostic_code,5,INUK.7A4B.00,,,33379,02/10/2018,02/10/2018,V,Percutaneous transluminal embolisation of popliteal artery571,INUK.7A41400,diagnostic_code,5,INUK.7A41.00,,,33379,02/10/2018,02/10/2018,V,Emerg bypass comm iliac art by aorta/com iliac art anast NEC573,INUK.G677000,diagnostic_code,5,INUK.G677.00,I66.0,,33381,02/10/2018,02/10/2018,V,Occlusion and stenosis of middle cerebral artery575,INUK.G307.00,diagnostic_code,4,INUK.G30..00,I21.4,,33381,02/10/2018,02/10/2018,V,Acute subendocardial infarction577,INUK.7A47.11,diagnostic_code,4,INUK.7A4..00,,,33379,02/10/2018,02/10/2018,V,Other emerg bypass femoral or popliteal art by anastomosis579,INUK.7A54500,diagnostic_code,5,INUK.7A54.00,,,33379,02/10/2018,02/10/2018,V,Rotary blade angioplasty581,INUK.G682.00,diagnostic_code,4,INUK.G68..00,I69.2,,33381,02/10/2018,02/10/2018,V,Sequelae of other nontraumatic intracranial haemorrhage583,INUK.7A47z00,diagnostic_code,5,INUK.7A47.00,,,33379,02/10/2018,02/10/2018,V,Other emergency bypass of femoral or popliteal artery NOS585,INUK.7A43111,diagnostic_code,5,INUK.7A43.00,,,33379,02/10/2018,02/10/2018,V,Open embolectomy of common iliac artery587,INUK.G73y800,diagnostic_code,5,INUK.G73y.00,I73.8,,33381,02/10/2018,02/10/2018,V,Erythromelalgia589,INUK.7A42.00,diagnostic_code,4,INUK.7A4..00,,,33379,02/10/2018,02/10/2018,V,Reconstruction of iliac artery591,INUK.G73y000,diagnostic_code,5,INUK.G73y.00,E14.5,,33381,02/10/2018,02/10/2018,V,Diabetic peripheral angiopathy593,INUK.792C000,diagnostic_code,5,INUK.792C.00,,,33379,02/10/2018,02/10/2018,V,Replacement of coronary arteries using multiple methods595,INUK.7A48B00,diagnostic_code,5,INUK.7A48.00,,,33379,02/10/2018,02/10/2018,V,Bypass popliteal art by pop/peron art anast c vein graft NEC597,INUK.7A4B000,diagnostic_code,5,INUK.7A4B.00,,,33379,02/10/2018,02/10/2018,V,Percutaneous transluminal angioplasty of femoral artery600,INUK.7926y00,diagnostic_code,5,INUK.7926.00,,,33379,02/10/2018,02/10/2018,V,Connection of other thoracic artery to coronary artery OS602,INUK.7929200,diagnostic_code,5,INUK.7929.00,,,33379,02/10/2018,02/10/2018,V,Percut translum inject therap subst to coronary artery NEC604,INUK.14A5.00,diagnostic_code,4,INUK.14A..00,I20,,33381,02/10/2018,02/10/2018,V,H/O: angina pectoris606,INUK.G615.00,diagnostic_code,4,INUK.G61..00,I61.3,,33381,02/10/2018,02/10/2018,V,Bulbar haemorrhage608,INUK.7A47.13,diagnostic_code,4,INUK.7A4..00,,,33379,02/10/2018,02/10/2018,V,Other emergency bypass of deep femoral artery610,INUK.C107.00,diagnostic_code,4,INUK.C10..00,E14.5,,33381,02/10/2018,02/10/2018,V,Diabetes mellitus with peripheral circulatory disorder612,INUK.7928y00,diagnostic_code,5,INUK.7928.00,,,33379,02/10/2018,02/10/2018,V,Transluminal balloon angioplasty of coronary artery OS614,INUK.G30A.00,diagnostic_code,4,INUK.G30..00,I21.9,,33381,02/10/2018,02/10/2018,V,Mural thrombosis616,INUK.ZV45800,diagnostic_code,5,INUK.ZV45.00,Z95.5,,33381,02/10/2018,02/10/2018,V,[V]Presence of coronary angioplasty implant and graft618,INUK.7A48300,diagnostic_code,5,INUK.7A48.00,,,33379,02/10/2018,02/10/2018,V,Bypass popliteal artery by pop/pop a anast c vein graft NEC620,INUK.Gyu6B00,diagnostic_code,5,INUK.Gyu6.00,I69.2,,33381,02/10/2018,02/10/2018,V,[X]Sequelae of other nontraumatic intracranial haemorrhage622,INUK.14AK.00,diagnostic_code,4,INUK.14A..00,G46,,33381,02/10/2018,02/10/2018,V,H/O: Stroke in last year624,INUK.G73..11,diagnostic_code,3,INUK.G7...00,I73,,33381,02/10/2018,02/10/2018,V,Peripheral ischaemic vascular disease626,INUK.7A49300,diagnostic_code,5,INUK.7A49.00,,,33379,02/10/2018,02/10/2018,V,Endarterectomy of popliteal artery NEC628,INUK.7925400,diagnostic_code,5,INUK.7925.00,,,33379,02/10/2018,02/10/2018,V,Single implantation of mammary artery into coronary artery630,INUK.7A47C00,diagnostic_code,5,INUK.7A47.00,,,33379,02/10/2018,02/10/2018,V,Emerg bypass femoral artery by fem/fem art anastomosis NEC632,INUK.792Dy00,diagnostic_code,5,INUK.792D.00,,,33379,02/10/2018,02/10/2018,V,Other specified other bypass of coronary artery634,INUK.G640000,diagnostic_code,5,INUK.G640.00,I63.3,,33381,02/10/2018,02/10/2018,V,Cerebral infarction due to thrombosis of cerebral arteries636,INUK.7929y00,diagnostic_code,5,INUK.7929.00,,,33379,02/10/2018,02/10/2018,V,Other therapeutic transluminal op on coronary artery OS638,INUK.G64z200,diagnostic_code,5,INUK.G64z.00,I63.9,,33381,02/10/2018,02/10/2018,V,Left sided cerebral infarction640,INUK.Gyu6500,diagnostic_code,5,INUK.Gyu6.00,I65.8,,33381,02/10/2018,02/10/2018,V,[X]Occlusion and stenosis of other precerebral arteries643,INUK.Gyu3600,diagnostic_code,5,INUK.Gyu3.00,I22.9,,33381,02/10/2018,02/10/2018,V,[X]Subsequent myocardial infarction of unspecified site645,INUK.G617.00,diagnostic_code,4,INUK.G61..00,I61.5,,33381,02/10/2018,02/10/2018,V,"Intracerebral haemorrhage, intraventricular"647,INUK.7A49700,diagnostic_code,5,INUK.7A49.00,,,33379,02/10/2018,02/10/2018,V,Profundoplasty of popliteal artery NEC649,INUK.G742400,diagnostic_code,5,INUK.G742.00,I74.3,,33381,02/10/2018,02/10/2018,V,Embolism and thrombosis of the femoral artery651,INUK.7A42000,diagnostic_code,5,INUK.7A42.00,,,33379,02/10/2018,02/10/2018,V,Endarterectomy and patch repair of iliac artery653,INUK.G33zz00,diagnostic_code,5,INUK.G33z.00,I20.9,,33381,02/10/2018,02/10/2018,V,Angina pectoris NOS655,INUK.7A19200,diagnostic_code,5,INUK.7A19.00,,,33379,02/10/2018,02/10/2018,V,Open embolectomy of bifurcation of aorta657,INUK.G641.00,diagnostic_code,4,INUK.G64..00,I66.9,,33381,02/10/2018,02/10/2018,V,Cerebral embolism659,INUK.14A..12,diagnostic_code,3,INUK.14...00,,,33379,02/10/2018,02/10/2018,V,H/O: myocardial problem661,INUK.14AT.00,diagnostic_code,4,INUK.14A..00,I21,,33381,02/10/2018,02/10/2018,V,History of myocardial infarction663,INUK.7A44300,diagnostic_code,5,INUK.7A44.00,,,33379,02/10/2018,02/10/2018,V,Insertion of iliac artery stent666,INUK.7929,,,,,,,,,,667,INUK.7A48.00,diagnostic_code,4,INUK.7A4..00,,,33379,02/10/2018,02/10/2018,V,Other bypass of femoral artery or popliteal artery669,INUK.G64z400,diagnostic_code,5,INUK.G64z.00,I63.9,,33381,02/10/2018,02/10/2018,V,Infarction of basal ganglia671,INUK.M271300,diagnostic_code,5,INUK.M271.00,L97,,33381,02/10/2018,02/10/2018,V,Arterial leg ulcer673,INUK.7A41000,diagnostic_code,5,INUK.7A41.00,,,33379,02/10/2018,02/10/2018,V,Emerg bypass iliac art by iliac/femoral art anastomosis NEC675,INUK.M271.12,diagnostic_code,4,INUK.M27..00,L97,,33381,02/10/2018,02/10/2018,V,Ischaemic leg ulcer677,INUK.G311400,diagnostic_code,5,INUK.G311.00,I20.0,,33381,02/10/2018,02/10/2018,V,Worsening angina679,INUK.7A41600,diagnostic_code,5,INUK.7A41.00,,,33379,02/10/2018,02/10/2018,V,Emerg bypass leg artery by aorta/com fem art anastomosis NEC681,INUK.G301z00,diagnostic_code,5,INUK.G301.00,I21.0,,33381,02/10/2018,02/10/2018,V,Anterior myocardial infarction NOS683,INUK.7925300,diagnostic_code,5,INUK.7925.00,,,33379,02/10/2018,02/10/2018,V,Single anastomosis of mammary artery to coronary artery NEC685,INUK.792B000,diagnostic_code,5,INUK.792B.00,,,33379,02/10/2018,02/10/2018,V,Endarterectomy of coronary artery NEC687,INUK.G631.00,diagnostic_code,4,INUK.G63..00,I65.2,,33381,02/10/2018,02/10/2018,V,Carotid artery occlusion689,INUK.G73..13,diagnostic_code,3,INUK.G7...00,I73,,33381,02/10/2018,02/10/2018,V,Peripheral ischaemia691,INUK.7A48.11,diagnostic_code,4,INUK.7A4..00,,,33379,02/10/2018,02/10/2018,V,Other bypass of femoral or popliteal artery by anastomosis693,INUK.7A48700,diagnostic_code,5,INUK.7A48.00,,,33379,02/10/2018,02/10/2018,V,Bypass popliteal artery by pop/tib a anast c vein graft NEC695,INUK.7A42z00,diagnostic_code,5,INUK.7A42.00,,,33379,02/10/2018,02/10/2018,V,Reconstruction of iliac artery NOS697,INUK.G63y.00,diagnostic_code,4,INUK.G63..00,I65.8,,33381,02/10/2018,02/10/2018,V,Other precerebral artery occlusion699,INUK.7A47.00,diagnostic_code,4,INUK.7A4..00,,,33379,02/10/2018,02/10/2018,V,Other emergency bypass of femoral artery or popliteal artery701,INUK.7927500,diagnostic_code,5,INUK.7927.00,,,33379,02/10/2018,02/10/2018,V,Open angioplasty of coronary artery703,INUK.G61..11,diagnostic_code,3,INUK.G6...00,I61,,33381,02/10/2018,02/10/2018,V,CVA - cerebrovascular accid due to intracerebral haemorrhage705,INUK.ZV45700,diagnostic_code,5,INUK.ZV45.00,Z95.1,,33381,02/10/2018,02/10/2018,V,[V]Presence of aortocoronary bypass graft707,INUK.7A12.00,diagnostic_code,4,INUK.7A1..00,,,33379,02/10/2018,02/10/2018,V,Other bypass of bifurcation of aorta709,INUK.7A42111,diagnostic_code,5,INUK.7A42.00,,,33379,02/10/2018,02/10/2018,V,Endarterectomy of common iliac artery NEC711,INUK.G61X100,diagnostic_code,5,INUK.G61X.00,I61.2,,33381,02/10/2018,02/10/2018,V,"Right sided intracerebral haemorrhage, unspecified"713,INUK.G73yz00,diagnostic_code,5,INUK.G73y.00,I73.8,,33381,02/10/2018,02/10/2018,V,Other specified peripheral vascular disease NOS715,INUK.G311.11,diagnostic_code,4,INUK.G31..00,I20.0,,33381,02/10/2018,02/10/2018,V,Crescendo angina717,INUK.G651.00,diagnostic_code,4,INUK.G65..00,G45.0,,33381,02/10/2018,02/10/2018,V,Vertebral artery syndrome719,INUK.7925y00,diagnostic_code,5,INUK.7925.00,,,33379,02/10/2018,02/10/2018,V,Connection of mammary artery to coronary artery OS721,INUK.G381.00,diagnostic_code,4,INUK.G38..00,I21.1,,33381,02/10/2018,02/10/2018,V,Postoperative transmural myocardial infarction inferior wall724,INUK.G384.00,diagnostic_code,4,INUK.G38..00,I21.4,,33381,02/10/2018,02/10/2018,V,Postoperative subendocardial myocardial infarction726,INUK.7A49y00,diagnostic_code,5,INUK.7A49.00,,,33379,02/10/2018,02/10/2018,V,Reconstruction of femoral or popliteal artery OS728,INUK.G33..00,diagnostic_code,3,INUK.G3...00,I20,,33381,02/10/2018,02/10/2018,V,Angina pectoris730,INUK.G33z100,diagnostic_code,5,INUK.G33z.00,I20.8,,33381,02/10/2018,02/10/2018,V,Stenocardia732,INUK.Gyu3100,diagnostic_code,5,INUK.Gyu3.00,I23.8,,33381,02/10/2018,02/10/2018,V,[X]Other current complicatns following acute myocard infarct734,INUK.7926200,diagnostic_code,5,INUK.7926.00,,,33379,02/10/2018,02/10/2018,V,Single anastomosis of thoracic artery to coronary artery NEC736,INUK.G64..12,diagnostic_code,3,INUK.G6...00,I63.8,,33381,02/10/2018,02/10/2018,V,Infarction - cerebral738,INUK.G73y.00,diagnostic_code,4,INUK.G73..00,I73.8,,33381,02/10/2018,02/10/2018,V,Other specified peripheral vascular disease740,INUK.7928000,diagnostic_code,5,INUK.7928.00,,,33379,02/10/2018,02/10/2018,V,Percut transluminal balloon angioplasty one coronary artery742,INUK.G66..00,diagnostic_code,3,INUK.G6...00,I64,,33381,02/10/2018,02/10/2018,V,Stroke and cerebrovascular accident unspecified744,INUK.C107z00,diagnostic_code,5,INUK.C107.00,E14.5,,33381,02/10/2018,02/10/2018,V,Diabetes mellitus NOS with peripheral circulatory disorder746,INUK.7A47700,diagnostic_code,5,INUK.7A47.00,,,33379,02/10/2018,02/10/2018,V,Emerg bypass pop art by pop/tib art anast c vein graft NEC748,INUK.G63..11,diagnostic_code,3,INUK.G6...00,I65,,33381,02/10/2018,02/10/2018,V,Infarction - precerebral750,INUK.7A48800,diagnostic_code,5,INUK.7A48.00,,,33379,02/10/2018,02/10/2018,V,Bypass femoral artery by fem/peron a anast c prosthesis NEC752,INUK.G64..11,diagnostic_code,3,INUK.G6...00,I66.9,,33381,02/10/2018,02/10/2018,V,CVA - cerebral artery occlusion754,INUK.G30y200,diagnostic_code,5,INUK.G30y.00,I21.2,,33381,02/10/2018,02/10/2018,V,Acute septal infarction756,INUK.9N4X.00,diagnostic_code,4,INUK.9N4..00,,,33379,02/10/2018,02/10/2018,V,DNA - Did not attend stroke clinic758,INUK.7921300,diagnostic_code,5,INUK.7921.00,,,33379,02/10/2018,02/10/2018,V,Autograft replacement of four of more coronary arteries NEC760,INUK.G344.00,diagnostic_code,4,INUK.G34..00,I25.6,,33381,02/10/2018,02/10/2018,V,Silent myocardial ischaemia762,INUK.G30y100,diagnostic_code,5,INUK.G30y.00,I21.4,,33381,02/10/2018,02/10/2018,V,Acute papillary muscle infarction764,INUK.G331.11,diagnostic_code,4,INUK.G33..00,I20.1,,33381,02/10/2018,02/10/2018,V,Variant angina pectoris766,INUK.7926000,diagnostic_code,5,INUK.7926.00,,,33379,02/10/2018,02/10/2018,V,Double anastom thoracic arteries to coronary arteries NEC768,INUK.G663.00,diagnostic_code,4,INUK.G66..00,G46.3,,33381,02/10/2018,02/10/2018,V,Brain stem stroke syndrome770,INUK.G310.00,diagnostic_code,4,INUK.G31..00,I24.1,,33381,02/10/2018,02/10/2018,V,Postmyocardial infarction syndrome772,INUK.G668.00,diagnostic_code,4,INUK.G66..00,I64,,33381,02/10/2018,02/10/2018,V,Right sided CVA774,INUK.7924200,diagnostic_code,5,INUK.7924.00,,,33379,02/10/2018,02/10/2018,V,Revision of bypass for three coronary arteries776,INUK.G311.14,diagnostic_code,4,INUK.G31..00,I20.0,,33381,02/10/2018,02/10/2018,V,Angina at rest778,INUK.G74y000,diagnostic_code,5,INUK.G74y.00,I74.5,,33381,02/10/2018,02/10/2018,V,Embolism and/or thrombosis of the common iliac artery780,INUK.G33z300,diagnostic_code,5,INUK.G33z.00,I20.8,,33381,02/10/2018,02/10/2018,V,Angina on effort782,INUK.7A4B800,diagnostic_code,5,INUK.7A4B.00,,,33379,02/10/2018,02/10/2018,V,Percut translum thrombolysis femoral graft streptokinase784,INUK.792y.00,diagnostic_code,4,INUK.792..00,,,33379,02/10/2018,02/10/2018,V,Other specified operations on coronary artery786,INUK.G64z111,diagnostic_code,5,INUK.G64z.00,I66.3,,33381,02/10/2018,02/10/2018,V,Lateral medullary syndrome788,INUK.G61X000,diagnostic_code,5,INUK.G61X.00,I61.2,,33381,02/10/2018,02/10/2018,V,"Left sided intracerebral haemorrhage, unspecified"790,INUK.662K300,diagnostic_code,5,INUK.662K.00,,,33379,02/10/2018,02/10/2018,V,Angina control - worsening792,INUK.7A43.00,diagnostic_code,4,INUK.7A4..00,,,33379,02/10/2018,02/10/2018,V,Other open operations on iliac artery794,INUK.7A49.13,diagnostic_code,4,INUK.7A4..00,,,33379,02/10/2018,02/10/2018,V,Reconstruction of femoral artery796,INUK.G6...00,diagnostic_code,2,INUK.G....00,I67.9,,33381,02/10/2018,02/10/2018,V,Cerebrovascular disease798,INUK.7A48D00,diagnostic_code,5,INUK.7A48.00,,,33379,02/10/2018,02/10/2018,V,Bypass popliteal artery by pop/fem artery anastomosis NEC800,INUK.G742700,diagnostic_code,5,INUK.G742.00,I74.3,,33381,02/10/2018,02/10/2018,V,Embolism and thrombosis of the dorsalis pedis artery802,INUK.792B.00,diagnostic_code,4,INUK.792..00,,,33379,02/10/2018,02/10/2018,V,Repair of coronary artery NEC804,INUK.G311.13,diagnostic_code,4,INUK.G31..00,I20.0,,33381,02/10/2018,02/10/2018,V,Unstable angina806,INUK.7A47.14,diagnostic_code,4,INUK.7A4..00,,,33379,02/10/2018,02/10/2018,V,Other emergency bypass of popliteal artery808,INUK.7A48C00,diagnostic_code,5,INUK.7A48.00,,,33379,02/10/2018,02/10/2018,V,Bypass femoral artery by femoral/femoral art anastomosis NEC810,INUK.7A47400,diagnostic_code,5,INUK.7A47.00,,,33379,02/10/2018,02/10/2018,V,Emerg bypass femoral art by fem/tib art anast c prosth NEC812,INUK.7925z00,diagnostic_code,5,INUK.7925.00,,,33379,02/10/2018,02/10/2018,V,Connection of mammary artery to coronary artery NOS814,INUK.7A48500,diagnostic_code,5,INUK.7A48.00,,,33379,02/10/2018,02/10/2018,V,Bypass popliteal artery by pop/tib a anast c prosthesis NEC816,INUK.7A49400,diagnostic_code,5,INUK.7A49.00,,,33379,02/10/2018,02/10/2018,V,Profundoplasty femoral artery & patch repair deep fem artery818,INUK.ZV45K00,diagnostic_code,5,INUK.ZV45.00,Z95.1,,33381,02/10/2018,02/10/2018,V,[V]Presence of coronary artery bypass graft820,INUK.7A12311,diagnostic_code,5,INUK.7A12.00,,,33379,02/10/2018,02/10/2018,V,Aorto biiliac graft822,INUK.Gyu6400,diagnostic_code,5,INUK.Gyu6.00,I63.8,,33381,02/10/2018,02/10/2018,V,[X]Other cerebral infarction824,INUK.G64z.12,diagnostic_code,4,INUK.G64..00,I63.9,,33381,02/10/2018,02/10/2018,V,Cerebellar infarction826,INUK.7924000,diagnostic_code,5,INUK.7924.00,,,33379,02/10/2018,02/10/2018,V,Revision of bypass for one coronary artery828,INUK.7A41100,diagnostic_code,5,INUK.7A41.00,,,33379,02/10/2018,02/10/2018,V,Bypass iliac artery by iliac/femoral artery anastomosis NEC830,INUK.7A49.00,diagnostic_code,4,INUK.7A4..00,,,33379,02/10/2018,02/10/2018,V,Reconstruction of femoral artery or popliteal artery832,INUK.G65z.00,diagnostic_code,4,INUK.G65..00,G45.9,,33381,02/10/2018,02/10/2018,V,Transient cerebral ischaemia NOS834,INUK.7A41C00,diagnostic_code,5,INUK.7A41.00,,,33379,02/10/2018,02/10/2018,V,Bypass leg artery by aorta/deep femoral art anastomosis NEC836,INUK.ZV12511,diagnostic_code,5,INUK.ZV12.00,Z86.7,,33381,02/10/2018,02/10/2018,V,[V]Personal history of stroke838,INUK.ZLEP.00,diagnostic_code,4,INUK.ZLE..00,,,33379,02/10/2018,02/10/2018,V,Discharge from stroke serv840,INUK.7A49.14,diagnostic_code,4,INUK.7A4..00,,,33379,02/10/2018,02/10/2018,V,Reconstruction of popliteal artery842,INUK.7924y00,diagnostic_code,5,INUK.7924.00,,,33379,02/10/2018,02/10/2018,V,Other specified revision of bypass for coronary artery844,INUK.C107000,diagnostic_code,5,INUK.C107.00,E10.5,,33381,02/10/2018,02/10/2018,V,"Diabetes mellitus, juvenile +peripheral circulatory disorder"846,INUK.G65..12,diagnostic_code,3,INUK.G6...00,G45,,33381,02/10/2018,02/10/2018,V,Transient ischaemic attack848,INUK.7A48.12,diagnostic_code,4,INUK.7A4..00,,,33379,02/10/2018,02/10/2018,V,Other bypass of common femoral artery850,INUK.G301.00,diagnostic_code,4,INUK.G30..00,I21.0,,33381,02/10/2018,02/10/2018,V,Other specified anterior myocardial infarction852,INUK.7A4A.11,diagnostic_code,4,INUK.7A4..00,,,33379,02/10/2018,02/10/2018,V,Other open operations on common femoral artery854,INUK.7A12300,diagnostic_code,5,INUK.7A12.00,,,33379,02/10/2018,02/10/2018,V,Bypass bifurcation aorta by anastom aorta to iliac artery856,INUK.7A44100,diagnostic_code,5,INUK.7A44.00,,,33379,02/10/2018,02/10/2018,V,Percutaneous transluminal embolectomy of iliac artery858,INUK.662K200,diagnostic_code,5,INUK.662K.00,,,33379,02/10/2018,02/10/2018,V,Angina control - improving860,INUK.7923,,,,,,,,,,861,INUK.7A41311,diagnostic_code,5,INUK.7A41.00,,,33379,02/10/2018,02/10/2018,V,Femoro-femoral prosthetic cross over graft863,INUK.G311100,diagnostic_code,5,INUK.G311.00,I20.0,,33381,02/10/2018,02/10/2018,V,Unstable angina865,INUK.792A.00,diagnostic_code,4,INUK.792..00,,,33379,02/10/2018,02/10/2018,V,Diagnostic transluminal operations on coronary artery867,INUK.Gyu3300,diagnostic_code,5,INUK.Gyu3.00,I25.8,,33381,02/10/2018,02/10/2018,V,[X]Other forms of chronic ischaemic heart disease869,INUK.G30yz00,diagnostic_code,5,INUK.G30y.00,I21.1,,33381,02/10/2018,02/10/2018,V,Other acute myocardial infarction NOS871,INUK.7929000,diagnostic_code,5,INUK.7929.00,,,33379,02/10/2018,02/10/2018,V,Percutaneous transluminal laser coronary angioplasty873,INUK.G33z000,diagnostic_code,5,INUK.G33z.00,I20.8,,33381,02/10/2018,02/10/2018,V,Status anginosus875,INUK.G311200,diagnostic_code,5,INUK.G311.00,I20.0,,33381,02/10/2018,02/10/2018,V,Angina at rest877,INUK.G677200,diagnostic_code,5,INUK.G677.00,I66.2,,33381,02/10/2018,02/10/2018,V,Occlusion and stenosis of posterior cerebral artery879,INUK.7A12z00,diagnostic_code,5,INUK.7A12.00,,,33379,02/10/2018,02/10/2018,V,Other bypass of bifurcation of aorta NOS881,INUK.7A12y00,diagnostic_code,5,INUK.7A12.00,,,33379,02/10/2018,02/10/2018,V,Other specified other bypass of bifurcation of aorta883,INUK.G301100,diagnostic_code,5,INUK.G301.00,I21.0,,33381,02/10/2018,02/10/2018,V,Acute anteroseptal infarction885,INUK.G677400,diagnostic_code,5,INUK.G677.00,I66.4,,33381,02/10/2018,02/10/2018,V,Occlusion+stenosis of multiple and bilat cerebral arteries887,INUK.G30B.00,diagnostic_code,4,INUK.G30..00,I21.2,,33381,02/10/2018,02/10/2018,V,Acute posterolateral myocardial infarction889,INUK.7920000,diagnostic_code,5,INUK.7920.00,,,33379,02/10/2018,02/10/2018,V,Saphenous vein graft replacement of one coronary artery891,INUK.G30X.00,diagnostic_code,4,INUK.G30..00,I21.3,,33381,02/10/2018,02/10/2018,V,Acute transmural myocardial infarction of unspecif site893,INUK.7A44z00,diagnostic_code,5,INUK.7A44.00,,,33379,02/10/2018,02/10/2018,V,Transluminal operation on iliac artery NOS895,INUK.7928100,diagnostic_code,5,INUK.7928.00,,,33379,02/10/2018,02/10/2018,V,Percut translum balloon angioplasty mult coronary arteries897,INUK.G330.00,diagnostic_code,4,INUK.G33..00,I20.0,,33381,02/10/2018,02/10/2018,V,Angina decubitus899,INUK.7A6H300,diagnostic_code,5,INUK.7A6H.00,,,33379,02/10/2018,02/10/2018,V,Prosthetic graft patch angioplasty901,INUK.G33z200,diagnostic_code,5,INUK.G33z.00,I20.8,,33381,02/10/2018,02/10/2018,V,Syncope anginosa903,INUK.14A7.12,diagnostic_code,4,INUK.14A..00,G46,,33381,02/10/2018,02/10/2018,V,H/O: stroke905,INUK.7924400,diagnostic_code,5,INUK.7924.00,,,33379,02/10/2018,02/10/2018,V,Revision of connection of thoracic artery to coronary artery907,INUK.7923z00,diagnostic_code,5,INUK.7923.00,,,33379,02/10/2018,02/10/2018,V,Prosthetic replacement of coronary artery NOS909,INUK.G330z00,diagnostic_code,5,INUK.G330.00,I20.0,,33381,02/10/2018,02/10/2018,V,Angina decubitus NOS911,INUK.C109F11,diagnostic_code,5,INUK.C109.00,E11.5,,33381,02/10/2018,02/10/2018,V,Type II diabetes mellitus with peripheral angiopathy913,INUK.7A47300,diagnostic_code,5,INUK.7A47.00,,,33379,02/10/2018,02/10/2018,V,Emerg bypass pop art by pop/pop art anast c vein graft NEC915,INUK.7A41.00,diagnostic_code,4,INUK.7A4..00,,,33379,02/10/2018,02/10/2018,V,Other bypass of iliac artery917,INUK.7A47D00,diagnostic_code,5,INUK.7A47.00,,,33379,02/10/2018,02/10/2018,V,Emerg bypass popliteal artery by pop/fem art anastomosis NEC919,INUK.G616.00,diagnostic_code,4,INUK.G61..00,I61.0,,33381,02/10/2018,02/10/2018,V,External capsule haemorrhage921,INUK.G64..13,diagnostic_code,3,INUK.G6...00,I63.5,,33381,02/10/2018,02/10/2018,V,Stroke due to cerebral arterial occlusion923,INUK.G65..00,diagnostic_code,3,INUK.G6...00,G45,,33381,02/10/2018,02/10/2018,V,Transient cerebral ischaemia925,INUK.G683.00,diagnostic_code,4,INUK.G68..00,I69.3,,33381,02/10/2018,02/10/2018,V,Sequelae of cerebral infarction927,INUK.G31y.00,diagnostic_code,4,INUK.G31..00,I24.8,,33381,02/10/2018,02/10/2018,V,Other acute and subacute ischaemic heart disease929,INUK.7921200,diagnostic_code,5,INUK.7921.00,,,33379,02/10/2018,02/10/2018,V,Autograft replacement of three coronary arteries NEC931,INUK.793H000,diagnostic_code,5,INUK.793H.00,,,33379,02/10/2018,02/10/2018,V,Percutaneous transluminal balloon dilation cardiac conduit933,INUK.G32..11,diagnostic_code,3,INUK.G3...00,I25.2,,33381,02/10/2018,02/10/2018,V,Healed myocardial infarction935,INUK.14NB.00,diagnostic_code,4,INUK.14N..00,,,33379,02/10/2018,02/10/2018,V,H/O: Peripheral vascular disease procedure937,INUK.792By00,diagnostic_code,5,INUK.792B.00,,,33379,02/10/2018,02/10/2018,V,Other specified repair of coronary artery939,INUK.7A50100,diagnostic_code,5,INUK.7A50.00,,,33379,02/10/2018,02/10/2018,V,Revision of reconstruction involving iliac artery941,INUK.7A42011,diagnostic_code,5,INUK.7A42.00,,,33379,02/10/2018,02/10/2018,V,Endarterectomy and patch repair of common iliac artery943,INUK.G73z011,diagnostic_code,5,INUK.G73z.00,I73.9,,33381,02/10/2018,02/10/2018,V,Claudication945,INUK.G307000,diagnostic_code,5,INUK.G307.00,I21.4,,33381,02/10/2018,02/10/2018,V,Acute non-Q wave infarction947,INUK.14A..00,diagnostic_code,3,INUK.14...00,,,33379,02/10/2018,02/10/2018,V,H/O: cardiovascular disease949,INUK.792z.00,diagnostic_code,4,INUK.792..00,,,33379,02/10/2018,02/10/2018,V,Coronary artery operations NOS951,INUK.G618.00,diagnostic_code,4,INUK.G61..00,I61.6,,33381,02/10/2018,02/10/2018,V,"Intracerebral haemorrhage, multiple localized"953,INUK.7A47.15,diagnostic_code,4,INUK.7A4..00,,,33379,02/10/2018,02/10/2018,V,Other emergency bypass of superficial femoral artery955,INUK.G664.00,diagnostic_code,4,INUK.G66..00,G46.4,,33381,02/10/2018,02/10/2018,V,Cerebellar stroke syndrome957,INUK.G630.00,diagnostic_code,4,INUK.G63..00,I65.1,,33381,02/10/2018,02/10/2018,V,Basilar artery occlusion959,INUK.7A4A100,diagnostic_code,5,INUK.7A4A.00,,,33379,02/10/2018,02/10/2018,V,Repair of popliteal artery NEC961,INUK.7A12112,diagnostic_code,5,INUK.7A12.00,,,33379,02/10/2018,02/10/2018,V,Dacron aortofemoral Y graft963,INUK.7925.11,diagnostic_code,4,INUK.792..00,,,33379,02/10/2018,02/10/2018,V,Creation of bypass from mammary artery to coronary artery965,INUK.7A43000,diagnostic_code,5,INUK.7A43.00,,,33379,02/10/2018,02/10/2018,V,Repair of iliac artery NEC967,INUK.G30X000,diagnostic_code,5,INUK.G30X.00,I21.9,,33381,02/10/2018,02/10/2018,V,Acute ST segment elevation myocardial infarction969,INUK.G309.00,diagnostic_code,4,INUK.G30..00,I21.3,,33381,02/10/2018,02/10/2018,V,Acute Q-wave infarct971,INUK.G31y300,diagnostic_code,5,INUK.G31y.00,I24.8,,33381,02/10/2018,02/10/2018,V,Transient myocardial ischaemia973,INUK.G65zz00,diagnostic_code,5,INUK.G65z.00,G45.9,,33381,02/10/2018,02/10/2018,V,Transient cerebral ischaemia NOS975,INUK.7927z00,diagnostic_code,5,INUK.7927.00,,,33379,02/10/2018,02/10/2018,V,Other open operation on coronary artery NOS977,INUK.G360.00,diagnostic_code,4,INUK.G36..00,I23.0,,33381,02/10/2018,02/10/2018,V,Haemopericardium/current comp folow acut myocard infarct979,INUK.G660.00,diagnostic_code,4,INUK.G66..00,G46.0,,33381,02/10/2018,02/10/2018,V,Middle cerebral artery syndrome981,INUK.14AZ.00,diagnostic_code,4,INUK.14A..00,,,33379,02/10/2018,02/10/2018,V,H/O: CVS disease NOS983,INUK.C107300,diagnostic_code,5,INUK.C107.00,E10.5,,33381,02/10/2018,02/10/2018,V,IDDM with peripheral circulatory disorder985,INUK.G32..00,diagnostic_code,3,INUK.G3...00,I25.2,,33381,02/10/2018,02/10/2018,V,Old myocardial infarction987,INUK.793G.00,diagnostic_code,4,INUK.793..00,,,33379,02/10/2018,02/10/2018,V,Perc translumin balloon angioplasty stenting coronary artery989,INUK.322..00,diagnostic_code,3,INUK.32...00,,,33379,02/10/2018,02/10/2018,V,ECG: myocardial ischaemia991,INUK.G653.00,diagnostic_code,4,INUK.G65..00,G45.1,,33381,02/10/2018,02/10/2018,V,Carotid artery syndrome hemispheric993,INUK.7920z00,diagnostic_code,5,INUK.7920.00,,,33379,02/10/2018,02/10/2018,V,Saphenous vein graft replacement coronary artery NOS995,INUK.M271400,diagnostic_code,5,INUK.M271.00,L97,,33381,02/10/2018,02/10/2018,V,Mixed venous and arterial leg ulcer997,INUK.7920,,,,,,,,,,998,INUK.G667.00,diagnostic_code,4,INUK.G66..00,I64,,33381,02/10/2018,02/10/2018,V,Left sided CVA1000,INUK.G61X.00,diagnostic_code,4,INUK.G61..00,I61.2,,33381,02/10/2018,02/10/2018,V,"Intracerebral haemorrhage in hemisphere, unspecified"1002,INUK.662Kz00,diagnostic_code,5,INUK.662K.00,,,33379,02/10/2018,02/10/2018,V,Angina control NOS1004,INUK.C107400,diagnostic_code,5,INUK.C107.00,E11.5,,33381,02/10/2018,02/10/2018,V,NIDDM with peripheral circulatory disorder1006,INUK.G742600,diagnostic_code,5,INUK.G742.00,I74.3,,33381,02/10/2018,02/10/2018,V,Embolism and thrombosis of the anterior tibial artery1008,INUK.7921z00,diagnostic_code,5,INUK.7921.00,,,33379,02/10/2018,02/10/2018,V,Other autograft replacement of coronary artery NOS1010,INUK.7A43011,diagnostic_code,5,INUK.7A43.00,,,33379,02/10/2018,02/10/2018,V,Repair of common iliac artery NEC1012,INUK.G631.12,diagnostic_code,4,INUK.G63..00,I65.2,,33381,02/10/2018,02/10/2018,V,"Thrombosis, carotid artery"1014,INUK.7924,,,,,,,,,,1015,INUK.7A4B300,diagnostic_code,5,INUK.7A4B.00,,,33379,02/10/2018,02/10/2018,V,Percutaneous transluminal embolectomy of popliteal artery1017,INUK.G38z.00,diagnostic_code,4,INUK.G38..00,I21.9,,33381,02/10/2018,02/10/2018,V,"Postoperative myocardial infarction, unspecified"1019,INUK.7920200,diagnostic_code,5,INUK.7920.00,,,33379,02/10/2018,02/10/2018,V,Saphenous vein graft replacement of three coronary arteries1021,INUK.G740.12,diagnostic_code,4,INUK.G74..00,I74.0,,33381,02/10/2018,02/10/2018,V,Aortoiliac obstruction1023,INUK.G742500,diagnostic_code,5,INUK.G742.00,I74.3,,33381,02/10/2018,02/10/2018,V,Embolism and thrombosis of the popliteal artery1025,INUK.G742900,diagnostic_code,5,INUK.G742.00,I74.3,,33381,02/10/2018,02/10/2018,V,Embolism and thrombosis of a leg artery NOS1027,INUK.7928.11,diagnostic_code,4,INUK.792..00,,,33379,02/10/2018,02/10/2018,V,Percutaneous balloon coronary angioplasty1029,INUK.R055000,diagnostic_code,5,INUK.R055.00,R57.9,,33381,02/10/2018,02/10/2018,V,[D]Failure of peripheral circulation1031,INUK.G732100,diagnostic_code,5,INUK.G732.00,R02,,33381,02/10/2018,02/10/2018,V,Gangrene of foot1033,INUK.793Gy00,diagnostic_code,5,INUK.793G.00,,,33379,02/10/2018,02/10/2018,V,OS perc translumina balloon angioplast stenting coronary art1035,INUK.9N0p.00,diagnostic_code,4,INUK.9N0..00,,,33379,02/10/2018,02/10/2018,V,Seen in stroke clinic1037,INUK.G311z00,diagnostic_code,5,INUK.G311.00,I20.0,,33381,02/10/2018,02/10/2018,V,Preinfarction syndrome NOS1039,INUK.7920.11,diagnostic_code,4,INUK.792..00,,,33379,02/10/2018,02/10/2018,V,Saphenous vein graft bypass of coronary artery1041,INUK.G702.00,diagnostic_code,4,INUK.G70..00,I70.2,,33381,02/10/2018,02/10/2018,V,Extremity artery atheroma1045,INUK.7A49100,diagnostic_code,5,INUK.7A49.00,,,33379,02/10/2018,02/10/2018,V,Endarterectomy and patch repair of popliteal artery1047,INUK.7A4B900,diagnostic_code,5,INUK.7A4B.00,,,33379,02/10/2018,02/10/2018,V,Percutaneous transluminal insertion of stent femoral artery1049,INUK.323Z.00,diagnostic_code,4,INUK.323..00,,,33379,02/10/2018,02/10/2018,V,ECG: myocardial infarct NOS1053,INUK.7A4A000,diagnostic_code,5,INUK.7A4A.00,,,33379,02/10/2018,02/10/2018,V,Repair of femoral artery NEC1055,INUK.G350.00,diagnostic_code,4,INUK.G35..00,I22.0,,33381,02/10/2018,02/10/2018,V,Subsequent myocardial infarction of anterior wall1057,INUK.8HBJ.00,diagnostic_code,4,INUK.8HB..00,,,33379,02/10/2018,02/10/2018,V,Stroke / transient ischaemic attack referral1059,INUK.G34y100,diagnostic_code,5,INUK.G34y.00,I25.5,,33381,02/10/2018,02/10/2018,V,Chronic myocardial ischaemia1061,INUK.7A4A.14,diagnostic_code,4,INUK.7A4..00,,,33379,02/10/2018,02/10/2018,V,Other open operations on superficial femoral artery1063,INUK.7A49000,diagnostic_code,5,INUK.7A49.00,,,33379,02/10/2018,02/10/2018,V,Endarterectomy and patch repair of femoral artery1065,INUK.SP07600,diagnostic_code,5,INUK.SP07.00,T82.8,,33381,02/10/2018,02/10/2018,V,Coronary artery bypass graft occlusion1067,INUK.7A12111,diagnostic_code,5,INUK.7A12.00,,,33379,02/10/2018,02/10/2018,V,Aorto bifemoral graft1069,INUK.7922100,diagnostic_code,5,INUK.7922.00,,,33379,02/10/2018,02/10/2018,V,Allograft replacement of two coronary arteries1071,INUK.Gyu6D00,diagnostic_code,5,INUK.Gyu6.00,I69.8,,33381,02/10/2018,02/10/2018,V,[X]Sequelae/other + unspecified cerebrovascular diseases1073,INUK.R054200,diagnostic_code,5,INUK.R054.00,E14.5,,33381,02/10/2018,02/10/2018,V,[D]Gangrene of toe in diabetic1075,INUK.662K100,diagnostic_code,5,INUK.662K.00,,,33379,02/10/2018,02/10/2018,V,Angina control - poor1078,INUK.7A12312,diagnostic_code,5,INUK.7A12.00,,,33379,02/10/2018,02/10/2018,V,Dacron aortoiliac Y graft1080,INUK.662K000,diagnostic_code,5,INUK.662K.00,,,33379,02/10/2018,02/10/2018,V,Angina control - good1082,INUK.G677300,diagnostic_code,5,INUK.G677.00,I66.3,,33381,02/10/2018,02/10/2018,V,Occlusion and stenosis of cerebellar arteries1084,INUK.C108G00,diagnostic_code,5,INUK.C108.00,E10.5,,33381,02/10/2018,02/10/2018,V,Insulin dependent diab mell with peripheral angiopathy1086,INUK.7A47000,diagnostic_code,5,INUK.7A47.00,,,33379,02/10/2018,02/10/2018,V,Emerg bypass femoral art by fem/pop art anast c prosth NEC1088,INUK.C109F00,diagnostic_code,5,INUK.C109.00,E11.5,,33381,02/10/2018,02/10/2018,V,Non-insulin-dependent d m with peripheral angiopath1090,INUK.7A41300,diagnostic_code,5,INUK.7A41.00,,,33379,02/10/2018,02/10/2018,V,Bypass iliac artery by femoral/femoral art anastomosis NEC1092,INUK.G311500,diagnostic_code,5,INUK.G311.00,I20.0,,33381,02/10/2018,02/10/2018,V,Acute coronary syndrome1094,INUK.Gyu6F00,diagnostic_code,5,INUK.Gyu6.00,I61.2,,33381,02/10/2018,02/10/2018,V,"[X]Intracerebral haemorrhage in hemisphere, unspecified"1096,INUK.7A10300,diagnostic_code,5,INUK.7A10.00,,,33379,02/10/2018,02/10/2018,V,Axillo-unifemoral PTFE bypass graft1098,INUK.Gyu6600,diagnostic_code,5,INUK.Gyu6.00,I66.8,,33381,02/10/2018,02/10/2018,V,[X]Occlusion and stenosis of other cerebral arteries1100,INUK.G731000,diagnostic_code,5,INUK.G731.00,I73.1,,33381,02/10/2018,02/10/2018,V,Buerger's disease1102,INUK.G304.00,diagnostic_code,4,INUK.G30..00,I21.2,,33381,02/10/2018,02/10/2018,V,Posterior myocardial infarction NOS1104,INUK.792Bz00,diagnostic_code,5,INUK.792B.00,,,33379,02/10/2018,02/10/2018,V,Repair of coronary artery NOS,INUK.8B3k.00,,,,,,,,,,,INUK.G734.00,,,,,,,,,,,INUK.G3...13,,,,,,,,,,,INUK.6A2..00,,,,,,,,,,,INUK.8B6L.00,,,,,,,,,,,INUK.662..00,,,,,,,,,,,INUK.792E.00,,,,,,,,,,,INUK.G3...00,Ischaemic heart disease,,,,,,,,,,INUK.G3...00,Ischaemic heart disease,,,,,,,,,,INUK.G3...13,IHD - Ischaemic heart disease,,,,,,,,,,INUK.G3...13,IHD - Ischaemic heart disease,,,,,,,,,,INUK.G30..00,Acute myocardial infarction,,,,,,,,,,INUK.G30..00,Acute myocardial infarction,,,,,,,,,,INUK.G30..14,Heart attack,,,,,,,,,,INUK.G30..14,Heart attack,,,,,,,,,,INUK.G30..15,MI - acute myocardial infarction,,,,,,,,,,INUK.G30..15,MI - acute myocardial infarction,,,,,,,,,,INUK.G301z00,Anterior myocardial infarction NOS,,,,,,,,,,INUK.G301z00,Anterior myocardial infarction NOS,,,,,,,,,,INUK.G307100,Acute non-ST segment elevation myocardial infarction,,,,,,,,,,INUK.G307100,Acute non-ST segment elevation myocardial infarction,,,,,,,,,,INUK.G308.00,Inferior myocardial infarction NOS,,,,,,,,,,INUK.G308.00,Inferior myocardial infarction NOS,,,,,,,,,,INUK.G30X000,Acute ST segment elevation myocardial infarction,,,,,,,,,,INUK.G30X000,Acute ST segment elevation myocardial infarction,,,,,,,,,,INUK.G30z.00,Acute myocardial infarction NOS,,,,,,,,,,INUK.G30z.00,Acute myocardial infarction NOS,,,,,,,,,,INUK.G311.13,Unstable angina,,,,,,,,,,INUK.G311.13,Unstable angina,,,,,,,,,,INUK.G311100,Unstable angina,,,,,,,,,,INUK.G311100,Unstable angina,,,,,,,,,,INUK.G311400,Worsening angina,,,,,,,,,,INUK.G311400,Worsening angina,,,,,,,,,,INUK.G311500,Acute coronary syndrome,,,,,,,,,,INUK.G311500,Acute coronary syndrome,,,,,,,,,,INUK.G32..00,Old myocardial infarction,,,,,,,,,,INUK.G32..00,Old myocardial infarction,,,,,,,,,,INUK.G32..11,Healed myocardial infarction,,,,,,,,,,INUK.G32..11,Healed myocardial infarction,,,,,,,,,,INUK.G32..12,Personal history of myocardial infarction,,,,,,,,,,INUK.G32..12,Personal history of myocardial infarction,,,,,,,,,,INUK.G33..00,Angina pectoris,,,,,,,,,,INUK.G33..00,Angina pectoris,,,,,,,,,,INUK.G332.00,Coronary artery spasm,,,,,,,,,,INUK.G332.00,Coronary artery spasm,,,,,,,,,,INUK.G33z.00,Angina pectoris NOS,,,,,,,,,,INUK.G33z.00,Angina pectoris NOS,,,,,,,,,,INUK.G33z300,Angina on effort,,,,,,,,,,INUK.G33z300,Angina on effort,,,,,,,,,,INUK.G33z700,Stable angina,,,,,,,,,,INUK.G33z700,Stable angina,,,,,,,,,,INUK.G340.00,Coronary atherosclerosis,,,,,,,,,,INUK.G340.00,Coronary atherosclerosis,,,,,,,,,,INUK.G340.11,Triple vessel disease of the heart,,,,,,,,,,INUK.G340.11,Triple vessel disease of the heart,,,,,,,,,,INUK.G340.12,Coronary artery disease,,,,,,,,,,INUK.G340.12,Coronary artery disease,,,,,,,,,,INUK.G343.00,Ischaemic cardiomyopathy,,,,,,,,,,INUK.G343.00,Ischaemic cardiomyopathy,,,,,,,,,,INUK.G3z..00,Ischaemic heart disease NOS,,,,,,,,,,INUK.G3z..00,Ischaemic heart disease NOS,,,,,,,,,,INUK.G6...00,Cerebrovascular disease,,,,,,,,,,INUK.G6...00,Cerebrovascular disease,,,,,,,,,,INUK.G60..00,Subarachnoid haemorrhage,,,,,,,,,,INUK.G60..00,Subarachnoid haemorrhage,,,,,,,,,,INUK.G61..00,Intracerebral haemorrhage,,,,,,,,,,INUK.G61..00,Intracerebral haemorrhage,,,,,,,,,,INUK.G61..11,CVA - cerebrovascular accid due to intracerebral haemorrhage,,,,,,,,,,INUK.G61..11,CVA - cerebrovascular accid due to intracerebral haemorrhage,,,,,,,,,,INUK.G61..12,Stroke due to intracerebral haemorrhage,,,,,,,,,,INUK.G61..12,Stroke due to intracerebral haemorrhage,,,,,,,,,,INUK.G612.00,Basal nucleus haemorrhage,,,,,,,,,,INUK.G612.00,Basal nucleus haemorrhage,,,,,,,,,,INUK.G613.00,Cerebellar haemorrhage,,,,,,,,,,INUK.G613.00,Cerebellar haemorrhage,,,,,,,,,,INUK.G623.00,Subdural haemorrhage NOS,,,,,,,,,,INUK.G623.00,Subdural haemorrhage NOS,,,,,,,,,,INUK.G634.00,Carotid artery stenosis,,,,,,,,,,INUK.G634.00,Carotid artery stenosis,,,,,,,,,,INUK.G64..00,Cerebral arterial occlusion,,,,,,,,,,INUK.G64..00,Cerebral arterial occlusion,,,,,,,,,,INUK.G64..11,CVA - cerebral artery occlusion,,,,,,,,,,INUK.G64..11,CVA - cerebral artery occlusion,,,,,,,,,,INUK.G64..12,Infarction - cerebral,,,,,,,,,,INUK.G64..12,Infarction - cerebral,,,,,,,,,,INUK.G64..13,Stroke due to cerebral arterial occlusion,,,,,,,,,,INUK.G64..13,Stroke due to cerebral arterial occlusion,,,,,,,,,,INUK.G640000,Cerebral infarction due to thrombosis of cerebral arteries,,,,,,,,,,INUK.G640000,Cerebral infarction due to thrombosis of cerebral arteries,,,,,,,,,,INUK.G64z.00,Cerebral infarction NOS,,,,,,,,,,INUK.G64z.00,Cerebral infarction NOS,,,,,,,,,,INUK.G64z.12,Cerebellar infarction,,,,,,,,,,INUK.G64z.12,Cerebellar infarction,,,,,,,,,,INUK.G64z000,Brainstem infarction,,,,,,,,,,INUK.G64z000,Brainstem infarction,,,,,,,,,,INUK.G64z400,Infarction of basal ganglia,,,,,,,,,,INUK.G64z400,Infarction of basal ganglia,,,,,,,,,,INUK.G65..00,Transient cerebral ischaemia,,,,,,,,,,INUK.G65..00,Transient cerebral ischaemia,,,,,,,,,,INUK.G65..12,Transient ischaemic attack,,,,,,,,,,INUK.G65..12,Transient ischaemic attack,,,,,,,,,,INUK.G65z.00,Transient cerebral ischaemia NOS,,,,,,,,,,INUK.G65z.00,Transient cerebral ischaemia NOS,,,,,,,,,,INUK.G65zz00,Transient cerebral ischaemia NOS,,,,,,,,,,INUK.G65zz00,Transient cerebral ischaemia NOS,,,,,,,,,,INUK.G66..00,Stroke and cerebrovascular accident unspecified,,,,,,,,,,INUK.G66..00,Stroke and cerebrovascular accident unspecified,,,,,,,,,,INUK.G66..11,CVA unspecified,,,,,,,,,,INUK.G66..11,CVA unspecified,,,,,,,,,,INUK.G66..12,Stroke unspecified,,,,,,,,,,INUK.G66..12,Stroke unspecified,,,,,,,,,,INUK.G66..13,CVA - Cerebrovascular accident unspecified,,,,,,,,,,INUK.G66..13,CVA - Cerebrovascular accident unspecified,,,,,,,,,,INUK.G665.00,Pure motor lacunar syndrome,,,,,,,,,,INUK.G665.00,Pure motor lacunar syndrome,,,,,,,,,,INUK.G667.00,Left sided CVA,,,,,,,,,,INUK.G667.00,Left sided CVA,,,,,,,,,,INUK.G668.00,Right sided CVA,,,,,,,,,,INUK.G668.00,Right sided CVA,,,,,,,,,,INUK.G679.00,Small vessel cerebrovascular disease,,,,,,,,,,INUK.G679.00,Small vessel cerebrovascular disease,,,,,,,,,,INUK.G682.00,Sequelae of other nontraumatic intracranial haemorrhage,,,,,,,,,,INUK.G682.00,Sequelae of other nontraumatic intracranial haemorrhage,,,,,,,,,,INUK.G6X..00,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,,,,,,,,,,INUK.G6X..00,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,,,,,,,,,,INUK.G73..00,Other peripheral vascular disease,,,,,,,,,,INUK.G73..00,Other peripheral vascular disease,,,,,,,,,,INUK.G73..11,Peripheral ischaemic vascular disease,,,,,,,,,,INUK.G73..11,Peripheral ischaemic vascular disease,,,,,,,,,,INUK.G73..12,Ischaemia of legs,,,,,,,,,,INUK.G73..12,Ischaemia of legs,,,,,,,,,,INUK.G730.00,Raynaud's syndrome,,,,,,,,,,INUK.G730.00,Raynaud's syndrome,,,,,,,,,,INUK.G730000,Raynaud's disease,,,,,,,,,,INUK.G730000,Raynaud's disease,,,,,,,,,,INUK.G732100,Gangrene of foot,,,,,,,,,,INUK.G732100,Gangrene of foot,,,,,,,,,,INUK.G734.00,Peripheral arterial disease,,,,,,,,,,INUK.G734.00,Peripheral arterial disease,,,,,,,,,,INUK.G73z.00,Peripheral vascular disease NOS,,,,,,,,,,INUK.G73z.00,Peripheral vascular disease NOS,,,,,,,,,,INUK.G73z000,Intermittent claudication,,,,,,,,,,INUK.G73z000,Intermittent claudication,,,,,,,,,,INUK.G73z011,Claudication,,,,,,,,,,INUK.G73z011,Claudication,,,,,,,,,,INUK.G73zz00,Peripheral vascular disease NOS,,,,,,,,,,INUK.ZV45K00,[V]Presence of coronary artery bypass graft,,,,,,,,,,INUK.ZV45K11,[V]Presence of coronary artery bypass graft - CABG,,,,,,,,,,INUK.6A2..00,Coronary heart disease annual review,,,,,,,,,,INUK.792..00,Coronary artery operations,,,,,,,,,,INUK.792..00,Coronary artery operations,,,,,,,,,,INUK.792..11,Coronary artery bypass graft operations,,,,,,,,,,INUK.792..11,Coronary artery bypass graft operations,,,,,,,,,,INUK.7920.00,Saphenous vein graft replacement of coronary artery,,,,,,,,,,INUK.7920.00,Saphenous vein graft replacement of coronary artery,,,,,,,,,,INUK.7920.11,Saphenous vein graft bypass of coronary artery,,,,,,,,,,INUK.7920.11,Saphenous vein graft bypass of coronary artery,,,,,,,,,,INUK.7920100,Saphenous vein graft replacement of two coronary arteries,,,,,,,,,,INUK.7920100,Saphenous vein graft replacement of two coronary arteries,,,,,,,,,,INUK.7920200,Saphenous vein graft replacement of three coronary arteries,,,,,,,,,,INUK.7920200,Saphenous vein graft replacement of three coronary arteries,,,,,,,,,,INUK.7920y00,Saphenous vein graft replacement of coronary artery OS,,,,,,,,,,INUK.7920y00,Saphenous vein graft replacement of coronary artery OS,,,,,,,,,,INUK.7921.11,Other autograft bypass of coronary artery,,,,,,,,,,INUK.7921.11,Other autograft bypass of coronary artery,,,,,,,,,,INUK.7927500,Open angioplasty of coronary artery,,,,,,,,,,INUK.7927500,Open angioplasty of coronary artery,,,,,,,,,,INUK.7928.00,Transluminal balloon angioplasty of coronary artery,,,,,,,,,,INUK.7928.00,Transluminal balloon angioplasty of coronary artery,,,,,,,,,,INUK.7929400,Insertion of coronary artery stent,,,,,,,,,,INUK.7929400,Insertion of coronary artery stent,,,,,,,,,,INUK.7929500,Insertion of drug-eluting coronary artery stent,,,,,,,,,,INUK.7929500,Insertion of drug-eluting coronary artery stent,,,,,,,,,,INUK.792A100,Intravascular ultrasound of coronary artery,,,,,,,,,,INUK.792A100,Intravascular ultrasound of coronary artery,,,,,,,,,,INUK.792D.00,Other bypass of coronary artery,,,,,,,,,,INUK.792D.00,Other bypass of coronary artery,,,,,,,,,,INUK.792Dz00,Other bypass of coronary artery NOS,,,,,,,,,,INUK.792Dz00,Other bypass of coronary artery NOS,,,,,,,,,,INUK.792E.00,Percutaneous coronary intervention,,,,,,,,,,INUK.792E.00,Percutaneous coronary intervention,,,,,,,,,,INUK.7934.00,Other therapeutic transluminal operations on heart,,,,,,,,,,INUK.7934.00,Other therapeutic transluminal operations on heart,,,,,,,,,,INUK.9Om0.00,Stroke/transient ischaemic attack monitoring first letter,,,,,,,,,,INUK.9Om1.00,Stroke/transient ischaemic attack monitoring second letter,,,,,,,,,,INUK.9Om2.00,Stroke/transient ischaemic attack monitoring third letter,,,,,,,,,,INUK.662e.00,Stroke/CVA annual review,,,,,,,,,,INUK.662M.00,,,,,,,,,,,INUK.14A5.00,H/O: angina pectoris,,,,,,,,,,INUK.14A7.11,H/O: CVA,,,,,,,,,,INUK.14A7.12,H/O: stroke,,,,,,,,,,INUK.187..00,Frequency of angina,,,,,,,,,,INUK.662K.00,Angina control ,,,,,,,,,,INUK.662K000,Angina control - good ,,,,,,,,,,INUK.662K100,Angina control - poor ,,,,,,,,,

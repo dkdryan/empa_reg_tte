@@ -1,0 +1,258 @@
+﻿,code,list_code,code_level,code_parent,code_group,weight,job_id,created_date,updated_date,status_code,alt_label
+201,INUK.1477.00,diagnostic_code,4,INUK.147..00,I67.9,,33381,02/10/2018,02/10/2018,V,H/O: cerebrovascular disease
+947,INUK.14A..00,diagnostic_code,3,INUK.14...00,,,33379,02/10/2018,02/10/2018,V,H/O: cardiovascular disease
+659,INUK.14A..12,diagnostic_code,3,INUK.14...00,,,33379,02/10/2018,02/10/2018,V,H/O: myocardial problem
+79,INUK.14A3.00,diagnostic_code,4,INUK.14A..00,I21,,33381,02/10/2018,02/10/2018,V,H/O: myocardial infarct <60
+17,INUK.14A4.00,diagnostic_code,4,INUK.14A..00,I21,,33381,02/10/2018,02/10/2018,V,H/O: myocardial infarct >60
+289,INUK.14A7.00,diagnostic_code,4,INUK.14A..00,G46,,33381,02/10/2018,02/10/2018,V,H/O: CVA/stroke
+285,INUK.14A7.11,diagnostic_code,4,INUK.14A..00,G46,,33381,02/10/2018,02/10/2018,V,H/O: CVA
+,INUK.14A7.12,H/O: stroke,,,,,,,,,
+377,INUK.14AF.00,diagnostic_code,4,INUK.14A..00,I60,,33381,02/10/2018,02/10/2018,V,H/O sub-arachnoid haemorrhage
+169,INUK.14AH.00,diagnostic_code,4,INUK.14A..00,I21,,33381,02/10/2018,02/10/2018,V,H/O: Myocardial infarction in last year
+622,INUK.14AK.00,diagnostic_code,4,INUK.14A..00,G46,,33381,02/10/2018,02/10/2018,V,H/O: Stroke in last year
+661,INUK.14AT.00,diagnostic_code,4,INUK.14A..00,I21,,33381,02/10/2018,02/10/2018,V,History of myocardial infarction
+235,INUK.14AW.00,diagnostic_code,4,INUK.14A..00,,,33379,02/10/2018,02/10/2018,V,H/O acute coronary syndrome
+981,INUK.14AZ.00,diagnostic_code,4,INUK.14A..00,,,33379,02/10/2018,02/10/2018,V,H/O: CVS disease NOS
+989,INUK.322..00,diagnostic_code,3,INUK.32...00,,,33379,02/10/2018,02/10/2018,V,ECG: myocardial ischaemia
+231,INUK.322Z.00,diagnostic_code,4,INUK.322..00,,,33379,02/10/2018,02/10/2018,V,ECG: myocardial ischaemia NOS
+539,INUK.323..00,diagnostic_code,3,INUK.32...00,,,33379,02/10/2018,02/10/2018,V,ECG: myocardial infarction
+1049,INUK.323Z.00,diagnostic_code,4,INUK.323..00,,,33379,02/10/2018,02/10/2018,V,ECG: myocardial infarct NOS
+321,INUK.8CRB.00,diagnostic_code,4,INUK.8CR..00,,,33379,02/10/2018,02/10/2018,V,Transient ischaemic attack clinical management plan
+501,INUK.8HHM.00,diagnostic_code,4,INUK.8HH..00,,,33379,02/10/2018,02/10/2018,V,Ref to multidisciplinary stroke function improvement service
+495,INUK.G30..00,diagnostic_code,3,INUK.G3...00,I21.9,,33381,02/10/2018,02/10/2018,V,Acute myocardial infarction
+148,INUK.G30..12,diagnostic_code,3,INUK.G3...00,I21.9,,33381,02/10/2018,02/10/2018,V,Coronary thrombosis
+225,INUK.G30..13,diagnostic_code,3,INUK.G3...00,I21.9,,33381,02/10/2018,02/10/2018,V,Cardiac rupture following myocardial infarction (MI)
+445,INUK.G30..14,diagnostic_code,3,INUK.G3...00,I21.9,,33381,02/10/2018,02/10/2018,V,Heart attack
+463,INUK.G30..15,diagnostic_code,3,INUK.G3...00,I21.9,,33381,02/10/2018,02/10/2018,V,MI - acute myocardial infarction
+503,INUK.G30..16,diagnostic_code,3,INUK.G3...00,I21.9,,33381,02/10/2018,02/10/2018,V,Thrombosis - coronary
+227,INUK.G30..17,diagnostic_code,3,INUK.G3...00,I21.9,,33381,02/10/2018,02/10/2018,V,Silent myocardial infarction
+116,INUK.G300.00,diagnostic_code,4,INUK.G30..00,I21.0,,33381,02/10/2018,02/10/2018,V,Acute anterolateral infarction
+850,INUK.G301.00,diagnostic_code,4,INUK.G30..00,I21.0,,33381,02/10/2018,02/10/2018,V,Other specified anterior myocardial infarction
+71,INUK.G301000,diagnostic_code,5,INUK.G301.00,I21.0,,33381,02/10/2018,02/10/2018,V,Acute anteroapical infarction
+883,INUK.G301100,diagnostic_code,5,INUK.G301.00,I21.0,,33381,02/10/2018,02/10/2018,V,Acute anteroseptal infarction
+681,INUK.G301z00,diagnostic_code,5,INUK.G301.00,I21.0,,33381,02/10/2018,02/10/2018,V,Anterior myocardial infarction NOS
+,INUK.G301z00,Anterior myocardial infarction NOS,,,,,,,,,
+,INUK.G301z00,Anterior myocardial infarction NOS,,,,,,,,,
+391,INUK.G302.00,diagnostic_code,4,INUK.G30..00,I21.1,,33381,02/10/2018,02/10/2018,V,Acute inferolateral infarction
+237,INUK.G303.00,diagnostic_code,4,INUK.G30..00,I21.1,,33381,02/10/2018,02/10/2018,V,Acute inferoposterior infarction
+1102,INUK.G304.00,diagnostic_code,4,INUK.G30..00,I21.2,,33381,02/10/2018,02/10/2018,V,Posterior myocardial infarction NOS
+213,INUK.G305.00,diagnostic_code,4,INUK.G30..00,I21.2,,33381,02/10/2018,02/10/2018,V,Lateral myocardial infarction NOS
+10,INUK.G306.00,diagnostic_code,4,INUK.G30..00,I21.2,,33381,02/10/2018,02/10/2018,V,True posterior myocardial infarction
+575,INUK.G307.00,diagnostic_code,4,INUK.G30..00,I21.4,,33381,02/10/2018,02/10/2018,V,Acute subendocardial infarction
+945,INUK.G307000,diagnostic_code,5,INUK.G307.00,I21.4,,33381,02/10/2018,02/10/2018,V,Acute non-Q wave infarction
+8,INUK.G307100,diagnostic_code,5,INUK.G307.00,I21.9,,33381,02/10/2018,02/10/2018,V,Acute non-ST segment elevation myocardial infarction
+,INUK.G307100,Acute non-ST segment elevation myocardial infarction,,,,,,,,,
+,INUK.G307100,Acute non-ST segment elevation myocardial infarction,,,,,,,,,
+489,INUK.G308.00,diagnostic_code,4,INUK.G30..00,I21.1,,33381,02/10/2018,02/10/2018,V,Inferior myocardial infarction NOS
+,INUK.G308.00,Inferior myocardial infarction NOS,,,,,,,,,
+,INUK.G308.00,Inferior myocardial infarction NOS,,,,,,,,,
+969,INUK.G309.00,diagnostic_code,4,INUK.G30..00,I21.3,,33381,02/10/2018,02/10/2018,V,Acute Q-wave infarct
+614,INUK.G30A.00,diagnostic_code,4,INUK.G30..00,I21.9,,33381,02/10/2018,02/10/2018,V,Mural thrombosis
+887,INUK.G30B.00,diagnostic_code,4,INUK.G30..00,I21.2,,33381,02/10/2018,02/10/2018,V,Acute posterolateral myocardial infarction
+891,INUK.G30X.00,diagnostic_code,4,INUK.G30..00,I21.3,,33381,02/10/2018,02/10/2018,V,Acute transmural myocardial infarction of unspecif site
+967,INUK.G30X000,diagnostic_code,5,INUK.G30X.00,I21.9,,33381,02/10/2018,02/10/2018,V,Acute ST segment elevation myocardial infarction
+,INUK.G30X000,Acute ST segment elevation myocardial infarction,,,,,,,,,
+,INUK.G30X000,Acute ST segment elevation myocardial infarction,,,,,,,,,
+517,INUK.G30y.00,diagnostic_code,4,INUK.G30..00,I21.9,,33381,02/10/2018,02/10/2018,V,Other acute myocardial infarction
+62,INUK.G30y000,diagnostic_code,5,INUK.G30y.00,I21.9,,33381,02/10/2018,02/10/2018,V,Acute atrial infarction
+762,INUK.G30y100,diagnostic_code,5,INUK.G30y.00,I21.4,,33381,02/10/2018,02/10/2018,V,Acute papillary muscle infarction
+754,INUK.G30y200,diagnostic_code,5,INUK.G30y.00,I21.2,,33381,02/10/2018,02/10/2018,V,Acute septal infarction
+869,INUK.G30yz00,diagnostic_code,5,INUK.G30y.00,I21.1,,33381,02/10/2018,02/10/2018,V,Other acute myocardial infarction NOS
+363,INUK.G30z.00,diagnostic_code,4,INUK.G30..00,I21.9,,33381,02/10/2018,02/10/2018,V,Acute myocardial infarction NOS
+,INUK.G30z.00,Acute myocardial infarction NOS,,,,,,,,,
+,INUK.G30z.00,Acute myocardial infarction NOS,,,,,,,,,
+2,INUK.G31..00,diagnostic_code,3,INUK.G3...00,I24,,33381,02/10/2018,02/10/2018,V,Other acute and subacute ischaemic heart disease
+770,INUK.G310.00,diagnostic_code,4,INUK.G31..00,I24.1,,33381,02/10/2018,02/10/2018,V,Postmyocardial infarction syndrome
+97,INUK.G310.11,diagnostic_code,4,INUK.G31..00,I24.1,,33381,02/10/2018,02/10/2018,V,Dressler's syndrome
+311,INUK.G311.00,diagnostic_code,4,INUK.G31..00,I20.0,,33381,02/10/2018,02/10/2018,V,Preinfarction syndrome
+927,INUK.G31y.00,diagnostic_code,4,INUK.G31..00,I24.8,,33381,02/10/2018,02/10/2018,V,Other acute and subacute ischaemic heart disease
+545,INUK.G31y000,diagnostic_code,5,INUK.G31y.00,I24.8,,33381,02/10/2018,02/10/2018,V,Acute coronary insufficiency
+253,INUK.G31y100,diagnostic_code,5,INUK.G31y.00,I24.8,,33381,02/10/2018,02/10/2018,V,Microinfarction of heart
+531,INUK.G31y200,diagnostic_code,5,INUK.G31y.00,I24.8,,33381,02/10/2018,02/10/2018,V,Subendocardial ischaemia
+971,INUK.G31y300,diagnostic_code,5,INUK.G31y.00,I24.8,,33381,02/10/2018,02/10/2018,V,Transient myocardial ischaemia
+265,INUK.G31yz00,diagnostic_code,5,INUK.G31y.00,I24.9,,33381,02/10/2018,02/10/2018,V,Other acute and subacute ischaemic heart disease NOS
+985,INUK.G32..00,diagnostic_code,3,INUK.G3...00,I25.2,,33381,02/10/2018,02/10/2018,V,Old myocardial infarction
+,INUK.G32..00,Old myocardial infarction,,,,,,,,,
+,INUK.G32..00,Old myocardial infarction,,,,,,,,,
+933,INUK.G32..11,diagnostic_code,3,INUK.G3...00,I25.2,,33381,02/10/2018,02/10/2018,V,Healed myocardial infarction
+,INUK.G32..11,Healed myocardial infarction,,,,,,,,,
+,INUK.G32..11,Healed myocardial infarction,,,,,,,,,
+425,INUK.G32..12,diagnostic_code,3,INUK.G3...00,I25.2,,33381,02/10/2018,02/10/2018,V,Personal history of myocardial infarction
+,INUK.G32..12,Personal history of myocardial infarction,,,,,,,,,
+,INUK.G32..12,Personal history of myocardial infarction,,,,,,,,,
+547,INUK.G35..00,diagnostic_code,3,INUK.G3...00,I22,,33381,02/10/2018,02/10/2018,V,Subsequent myocardial infarction
+1055,INUK.G350.00,diagnostic_code,4,INUK.G35..00,I22.0,,33381,02/10/2018,02/10/2018,V,Subsequent myocardial infarction of anterior wall
+21,INUK.G351.00,diagnostic_code,4,INUK.G35..00,I22.1,,33381,02/10/2018,02/10/2018,V,Subsequent myocardial infarction of inferior wall
+555,INUK.G353.00,diagnostic_code,4,INUK.G35..00,I22.8,,33381,02/10/2018,02/10/2018,V,Subsequent myocardial infarction of other sites
+156,INUK.G35X.00,diagnostic_code,4,INUK.G35..00,I22.9,,33381,02/10/2018,02/10/2018,V,Subsequent myocardial infarction of unspecified site
+337,INUK.G36..00,diagnostic_code,3,INUK.G3...00,I23,,33381,02/10/2018,02/10/2018,V,Certain current complication follow acute myocardial infarct
+977,INUK.G360.00,diagnostic_code,4,INUK.G36..00,I23.0,,33381,02/10/2018,02/10/2018,V,Haemopericardium/current comp folow acut myocard infarct
+301,INUK.G361.00,diagnostic_code,4,INUK.G36..00,I23.1,,33381,02/10/2018,02/10/2018,V,Atrial septal defect/curr comp folow acut myocardal infarct
+35,INUK.G362.00,diagnostic_code,4,INUK.G36..00,I23.2,,33381,02/10/2018,02/10/2018,V,Ventric septal defect/curr comp fol acut myocardal infarctn
+297,INUK.G363.00,diagnostic_code,4,INUK.G36..00,I23.3,,33381,02/10/2018,02/10/2018,V,Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI
+375,INUK.G364.00,diagnostic_code,4,INUK.G36..00,I23.4,,33381,02/10/2018,02/10/2018,V,Ruptur chordae tendinae/curr comp fol acute myocard infarct
+393,INUK.G365.00,diagnostic_code,4,INUK.G36..00,I23.5,,33381,02/10/2018,02/10/2018,V,Rupture papillary muscle/curr comp fol acute myocard infarct
+95,INUK.G366.00,diagnostic_code,4,INUK.G36..00,I23.6,,33381,02/10/2018,02/10/2018,V,"Thrombosis atrium,auric append&vent/curr comp foll acute MI"
+361,INUK.G38..00,diagnostic_code,3,INUK.G3...00,I21,,33381,02/10/2018,02/10/2018,V,Postoperative myocardial infarction
+52,INUK.G380.00,diagnostic_code,4,INUK.G38..00,I21.0,,33381,02/10/2018,02/10/2018,V,Postoperative transmural myocardial infarction anterior wall
+721,INUK.G381.00,diagnostic_code,4,INUK.G38..00,I21.1,,33381,02/10/2018,02/10/2018,V,Postoperative transmural myocardial infarction inferior wall
+193,INUK.G382.00,diagnostic_code,4,INUK.G38..00,I21.2,,33381,02/10/2018,02/10/2018,V,Postoperative transmural myocardial infarction other sites
+453,INUK.G383.00,diagnostic_code,4,INUK.G38..00,I21.3,,33381,02/10/2018,02/10/2018,V,Postoperative transmural myocardial infarction unspec site
+724,INUK.G384.00,diagnostic_code,4,INUK.G38..00,I21.4,,33381,02/10/2018,02/10/2018,V,Postoperative subendocardial myocardial infarction
+1017,INUK.G38z.00,diagnostic_code,4,INUK.G38..00,I21.9,,33381,02/10/2018,02/10/2018,V,"Postoperative myocardial infarction, unspecified"
+197,INUK.G501.00,diagnostic_code,4,INUK.G50..00,I23.8,,33381,02/10/2018,02/10/2018,V,Post infarction pericarditis
+796,INUK.G6...00,diagnostic_code,2,INUK.G....00,I67.9,,33381,02/10/2018,02/10/2018,V,Cerebrovascular disease
+,INUK.G6...00,Cerebrovascular disease,,,,,,,,,
+,INUK.G6...00,Cerebrovascular disease,,,,,,,,,
+,INUK.G60..00,Subarachnoid haemorrhage,,,,,,,,,
+,INUK.G60..00,Subarachnoid haemorrhage,,,,,,,,,
+421,INUK.G61..00,diagnostic_code,3,INUK.G6...00,I61,,33381,02/10/2018,02/10/2018,V,Intracerebral haemorrhage
+,INUK.G61..00,Intracerebral haemorrhage,,,,,,,,,
+,INUK.G61..00,Intracerebral haemorrhage,,,,,,,,,
+703,INUK.G61..11,diagnostic_code,3,INUK.G6...00,I61,,33381,02/10/2018,02/10/2018,V,CVA - cerebrovascular accid due to intracerebral haemorrhage
+,INUK.G61..11,CVA - cerebrovascular accid due to intracerebral haemorrhage,,,,,,,,,
+,INUK.G61..11,CVA - cerebrovascular accid due to intracerebral haemorrhage,,,,,,,,,
+407,INUK.G61..12,diagnostic_code,3,INUK.G6...00,I61,,33381,02/10/2018,02/10/2018,V,Stroke due to intracerebral haemorrhage
+,INUK.G61..12,Stroke due to intracerebral haemorrhage,,,,,,,,,
+,INUK.G61..12,Stroke due to intracerebral haemorrhage,,,,,,,,,
+181,INUK.G610.00,diagnostic_code,4,INUK.G61..00,I61.1,,33381,02/10/2018,02/10/2018,V,Cortical haemorrhage
+187,INUK.G611.00,diagnostic_code,4,INUK.G61..00,I61.0,,33381,02/10/2018,02/10/2018,V,Internal capsule haemorrhage
+307,INUK.G612.00,diagnostic_code,4,INUK.G61..00,I61.0,,33381,02/10/2018,02/10/2018,V,Basal nucleus haemorrhage
+,INUK.G612.00,Basal nucleus haemorrhage,,,,,,,,,
+,INUK.G612.00,Basal nucleus haemorrhage,,,,,,,,,
+91,INUK.G613.00,diagnostic_code,4,INUK.G61..00,I61.4,,33381,02/10/2018,02/10/2018,V,Cerebellar haemorrhage
+,INUK.G613.00,Cerebellar haemorrhage,,,,,,,,,
+,INUK.G613.00,Cerebellar haemorrhage,,,,,,,,,
+521,INUK.G614.00,diagnostic_code,4,INUK.G61..00,I61.3,,33381,02/10/2018,02/10/2018,V,Pontine haemorrhage
+606,INUK.G615.00,diagnostic_code,4,INUK.G61..00,I61.3,,33381,02/10/2018,02/10/2018,V,Bulbar haemorrhage
+919,INUK.G616.00,diagnostic_code,4,INUK.G61..00,I61.0,,33381,02/10/2018,02/10/2018,V,External capsule haemorrhage
+645,INUK.G617.00,diagnostic_code,4,INUK.G61..00,I61.5,,33381,02/10/2018,02/10/2018,V,"Intracerebral haemorrhage, intraventricular"
+951,INUK.G618.00,diagnostic_code,4,INUK.G61..00,I61.6,,33381,02/10/2018,02/10/2018,V,"Intracerebral haemorrhage, multiple localized"
+1000,INUK.G61X.00,diagnostic_code,4,INUK.G61..00,I61.2,,33381,02/10/2018,02/10/2018,V,"Intracerebral haemorrhage in hemisphere, unspecified"
+788,INUK.G61X000,diagnostic_code,5,INUK.G61X.00,I61.2,,33381,02/10/2018,02/10/2018,V,"Left sided intracerebral haemorrhage, unspecified"
+711,INUK.G61X100,diagnostic_code,5,INUK.G61X.00,I61.2,,33381,02/10/2018,02/10/2018,V,"Right sided intracerebral haemorrhage, unspecified"
+106,INUK.G61z.00,diagnostic_code,4,INUK.G61..00,I61.9,,33381,02/10/2018,02/10/2018,V,Intracerebral haemorrhage NOS
+,INUK.G623.00,Subdural haemorrhage NOS,,,,,,,,,
+,INUK.G623.00,Subdural haemorrhage NOS,,,,,,,,,
+317,INUK.G63..00,diagnostic_code,3,INUK.G6...00,I65,,33381,02/10/2018,02/10/2018,V,Precerebral arterial occlusion
+748,INUK.G63..11,diagnostic_code,3,INUK.G6...00,I65,,33381,02/10/2018,02/10/2018,V,Infarction - precerebral
+957,INUK.G630.00,diagnostic_code,4,INUK.G63..00,I65.1,,33381,02/10/2018,02/10/2018,V,Basilar artery occlusion
+687,INUK.G631.00,diagnostic_code,4,INUK.G63..00,I65.2,,33381,02/10/2018,02/10/2018,V,Carotid artery occlusion
+1012,INUK.G631.12,diagnostic_code,4,INUK.G63..00,I65.2,,33381,02/10/2018,02/10/2018,V,"Thrombosis, carotid artery"
+473,INUK.G632.00,diagnostic_code,4,INUK.G63..00,I65.0,,33381,02/10/2018,02/10/2018,V,Vertebral artery occlusion
+353,INUK.G633.00,diagnostic_code,4,INUK.G63..00,I65.3,,33381,02/10/2018,02/10/2018,V,Multiple and bilateral precerebral arterial occlusion
+697,INUK.G63y.00,diagnostic_code,4,INUK.G63..00,I65.8,,33381,02/10/2018,02/10/2018,V,Other precerebral artery occlusion
+343,INUK.G63y000,diagnostic_code,5,INUK.G63y.00,I63.0,,33381,02/10/2018,02/10/2018,V,Cerebral infarct due to thrombosis of precerebral arteries
+465,INUK.G63y100,diagnostic_code,5,INUK.G63y.00,I63.1,,33381,02/10/2018,02/10/2018,V,Cerebral infarction due to embolism of precerebral arteries
+259,INUK.G63z.00,diagnostic_code,4,INUK.G63..00,I65.9,,33381,02/10/2018,02/10/2018,V,Precerebral artery occlusion NOS
+505,INUK.G64..00,diagnostic_code,3,INUK.G6...00,I66.9,,33381,02/10/2018,02/10/2018,V,Cerebral arterial occlusion
+,INUK.G64..00,Cerebral arterial occlusion,,,,,,,,,
+,INUK.G64..00,Cerebral arterial occlusion,,,,,,,,,
+752,INUK.G64..11,diagnostic_code,3,INUK.G6...00,I66.9,,33381,02/10/2018,02/10/2018,V,CVA - cerebral artery occlusion
+,INUK.G64..11,CVA - cerebral artery occlusion,,,,,,,,,
+,INUK.G64..11,CVA - cerebral artery occlusion,,,,,,,,,
+736,INUK.G64..12,diagnostic_code,3,INUK.G6...00,I63.8,,33381,02/10/2018,02/10/2018,V,Infarction - cerebral
+,INUK.G64..12,Infarction - cerebral,,,,,,,,,
+,INUK.G64..12,Infarction - cerebral,,,,,,,,,
+921,INUK.G64..13,diagnostic_code,3,INUK.G6...00,I63.5,,33381,02/10/2018,02/10/2018,V,Stroke due to cerebral arterial occlusion
+,INUK.G64..13,Stroke due to cerebral arterial occlusion,,,,,,,,,
+,INUK.G64..13,Stroke due to cerebral arterial occlusion,,,,,,,,,
+4,INUK.G640.00,diagnostic_code,4,INUK.G64..00,I66.9,,33381,02/10/2018,02/10/2018,V,Cerebral thrombosis
+634,INUK.G640000,diagnostic_code,5,INUK.G640.00,I63.3,,33381,02/10/2018,02/10/2018,V,Cerebral infarction due to thrombosis of cerebral arteries
+,INUK.G640000,Cerebral infarction due to thrombosis of cerebral arteries,,,,,,,,,
+,INUK.G640000,Cerebral infarction due to thrombosis of cerebral arteries,,,,,,,,,
+657,INUK.G641.00,diagnostic_code,4,INUK.G64..00,I66.9,,33381,02/10/2018,02/10/2018,V,Cerebral embolism
+475,INUK.G641.11,diagnostic_code,4,INUK.G64..00,I66.9,,33381,02/10/2018,02/10/2018,V,Cerebral embolus
+519,INUK.G641000,diagnostic_code,5,INUK.G641.00,I63.4,,33381,02/10/2018,02/10/2018,V,Cerebral infarction due to embolism of cerebral arteries
+54,INUK.G64z.00,diagnostic_code,4,INUK.G64..00,I63.9,,33381,02/10/2018,02/10/2018,V,Cerebral infarction NOS
+,INUK.G64z.00,Cerebral infarction NOS,,,,,,,,,
+,INUK.G64z.00,Cerebral infarction NOS,,,,,,,,,
+199,INUK.G64z.11,diagnostic_code,4,INUK.G64..00,I63.9,,33381,02/10/2018,02/10/2018,V,Brainstem infarction NOS
+824,INUK.G64z.12,diagnostic_code,4,INUK.G64..00,I63.9,,33381,02/10/2018,02/10/2018,V,Cerebellar infarction
+,INUK.G64z.12,Cerebellar infarction,,,,,,,,,
+,INUK.G64z.12,Cerebellar infarction,,,,,,,,,
+19,INUK.G64z000,diagnostic_code,5,INUK.G64z.00,I63.9,,33381,02/10/2018,02/10/2018,V,Brainstem infarction
+,INUK.G64z000,Brainstem infarction,,,,,,,,,
+,INUK.G64z000,Brainstem infarction,,,,,,,,,
+479,INUK.G64z100,diagnostic_code,5,INUK.G64z.00,I66.3,,33381,02/10/2018,02/10/2018,V,Wallenberg syndrome
+786,INUK.G64z111,diagnostic_code,5,INUK.G64z.00,I66.3,,33381,02/10/2018,02/10/2018,V,Lateral medullary syndrome
+638,INUK.G64z200,diagnostic_code,5,INUK.G64z.00,I63.9,,33381,02/10/2018,02/10/2018,V,Left sided cerebral infarction
+339,INUK.G64z300,diagnostic_code,5,INUK.G64z.00,I63.9,,33381,02/10/2018,02/10/2018,V,Right sided cerebral infarction
+669,INUK.G64z400,diagnostic_code,5,INUK.G64z.00,I63.9,,33381,02/10/2018,02/10/2018,V,Infarction of basal ganglia
+,INUK.G64z400,Infarction of basal ganglia,,,,,,,,,
+,INUK.G64z400,Infarction of basal ganglia,,,,,,,,,
+923,INUK.G65..00,diagnostic_code,3,INUK.G6...00,G45,,33381,02/10/2018,02/10/2018,V,Transient cerebral ischaemia
+,INUK.G65..00,Transient cerebral ischaemia,,,,,,,,,
+,INUK.G65..00,Transient cerebral ischaemia,,,,,,,,,
+846,INUK.G65..12,diagnostic_code,3,INUK.G6...00,G45,,33381,02/10/2018,02/10/2018,V,Transient ischaemic attack
+,INUK.G65..12,Transient ischaemic attack,,,,,,,,,
+,INUK.G65..12,Transient ischaemic attack,,,,,,,,,
+717,INUK.G651.00,diagnostic_code,4,INUK.G65..00,G45.0,,33381,02/10/2018,02/10/2018,V,Vertebral artery syndrome
+551,INUK.G652.00,diagnostic_code,4,INUK.G65..00,G45.8,,33381,02/10/2018,02/10/2018,V,Subclavian steal syndrome
+991,INUK.G653.00,diagnostic_code,4,INUK.G65..00,G45.1,,33381,02/10/2018,02/10/2018,V,Carotid artery syndrome hemispheric
+385,INUK.G654.00,diagnostic_code,4,INUK.G65..00,G45.2,,33381,02/10/2018,02/10/2018,V,Multiple and bilateral precerebral artery syndromes
+243,INUK.G65y.00,diagnostic_code,4,INUK.G65..00,G45.8,,33381,02/10/2018,02/10/2018,V,Other transient cerebral ischaemia
+832,INUK.G65z.00,diagnostic_code,4,INUK.G65..00,G45.9,,33381,02/10/2018,02/10/2018,V,Transient cerebral ischaemia NOS
+,INUK.G65z.00,Transient cerebral ischaemia NOS,,,,,,,,,
+,INUK.G65z.00,Transient cerebral ischaemia NOS,,,,,,,,,
+381,INUK.G65z100,diagnostic_code,5,INUK.G65z.00,I64,,33381,02/10/2018,02/10/2018,V,Intermittent cerebral ischaemia
+973,INUK.G65zz00,diagnostic_code,5,INUK.G65z.00,G45.9,,33381,02/10/2018,02/10/2018,V,Transient cerebral ischaemia NOS
+,INUK.G65zz00,Transient cerebral ischaemia NOS,,,,,,,,,
+,INUK.G65zz00,Transient cerebral ischaemia NOS,,,,,,,,,
+742,INUK.G66..00,diagnostic_code,3,INUK.G6...00,I64,,33381,02/10/2018,02/10/2018,V,Stroke and cerebrovascular accident unspecified
+,INUK.G66..00,Stroke and cerebrovascular accident unspecified,,,,,,,,,
+,INUK.G66..00,Stroke and cerebrovascular accident unspecified,,,,,,,,,
+493,INUK.G66..11,diagnostic_code,3,INUK.G6...00,I64,,33381,02/10/2018,02/10/2018,V,CVA unspecified
+,INUK.G66..11,CVA unspecified,,,,,,,,,
+,INUK.G66..11,CVA unspecified,,,,,,,,,
+333,INUK.G66..12,diagnostic_code,3,INUK.G6...00,I64,,33381,02/10/2018,02/10/2018,V,Stroke unspecified
+,INUK.G66..12,Stroke unspecified,,,,,,,,,
+,INUK.G66..12,Stroke unspecified,,,,,,,,,
+295,INUK.G66..13,diagnostic_code,3,INUK.G6...00,I64,,33381,02/10/2018,02/10/2018,V,CVA - Cerebrovascular accident unspecified
+,INUK.G66..13,CVA - Cerebrovascular accident unspecified,,,,,,,,,
+,INUK.G66..13,CVA - Cerebrovascular accident unspecified,,,,,,,,,
+979,INUK.G660.00,diagnostic_code,4,INUK.G66..00,G46.0,,33381,02/10/2018,02/10/2018,V,Middle cerebral artery syndrome
+768,INUK.G663.00,diagnostic_code,4,INUK.G66..00,G46.3,,33381,02/10/2018,02/10/2018,V,Brain stem stroke syndrome
+955,INUK.G664.00,diagnostic_code,4,INUK.G66..00,G46.4,,33381,02/10/2018,02/10/2018,V,Cerebellar stroke syndrome
+99,INUK.G665.00,diagnostic_code,4,INUK.G66..00,G46.5,,33381,02/10/2018,02/10/2018,V,Pure motor lacunar syndrome
+,INUK.G665.00,Pure motor lacunar syndrome,,,,,,,,,
+,INUK.G665.00,Pure motor lacunar syndrome,,,,,,,,,
+23,INUK.G666.00,diagnostic_code,4,INUK.G66..00,G46.6,,33381,02/10/2018,02/10/2018,V,Pure sensory lacunar syndrome
+998,INUK.G667.00,diagnostic_code,4,INUK.G66..00,I64,,33381,02/10/2018,02/10/2018,V,Left sided CVA
+,INUK.G667.00,Left sided CVA,,,,,,,,,
+,INUK.G667.00,Left sided CVA,,,,,,,,,
+772,INUK.G668.00,diagnostic_code,4,INUK.G66..00,I64,,33381,02/10/2018,02/10/2018,V,Right sided CVA
+,INUK.G668.00,Right sided CVA,,,,,,,,,
+,INUK.G668.00,Right sided CVA,,,,,,,,,
+255,INUK.G676000,diagnostic_code,5,INUK.G676.00,I63.6,,33381,02/10/2018,02/10/2018,V,"Cereb infarct due cerebral venous thrombosis, nonpyogenic"
+573,INUK.G677000,diagnostic_code,5,INUK.G677.00,I66.0,,33381,02/10/2018,02/10/2018,V,Occlusion and stenosis of middle cerebral artery
+357,INUK.G677100,diagnostic_code,5,INUK.G677.00,I66.1,,33381,02/10/2018,02/10/2018,V,Occlusion and stenosis of anterior cerebral artery
+877,INUK.G677200,diagnostic_code,5,INUK.G677.00,I66.2,,33381,02/10/2018,02/10/2018,V,Occlusion and stenosis of posterior cerebral artery
+1082,INUK.G677300,diagnostic_code,5,INUK.G677.00,I66.3,,33381,02/10/2018,02/10/2018,V,Occlusion and stenosis of cerebellar arteries
+885,INUK.G677400,diagnostic_code,5,INUK.G677.00,I66.4,,33381,02/10/2018,02/10/2018,V,Occlusion+stenosis of multiple and bilat cerebral arteries
+,INUK.G679.00,Small vessel cerebrovascular disease,,,,,,,,,
+,INUK.G679.00,Small vessel cerebrovascular disease,,,,,,,,,
+541,INUK.G681.00,diagnostic_code,4,INUK.G68..00,I69.1,,33381,02/10/2018,02/10/2018,V,Sequelae of intracerebral haemorrhage
+581,INUK.G682.00,diagnostic_code,4,INUK.G68..00,I69.2,,33381,02/10/2018,02/10/2018,V,Sequelae of other nontraumatic intracranial haemorrhage
+,INUK.G682.00,Sequelae of other nontraumatic intracranial haemorrhage,,,,,,,,,
+,INUK.G682.00,Sequelae of other nontraumatic intracranial haemorrhage,,,,,,,,,
+925,INUK.G683.00,diagnostic_code,4,INUK.G68..00,I69.3,,33381,02/10/2018,02/10/2018,V,Sequelae of cerebral infarction
+373,INUK.G68W.00,diagnostic_code,4,INUK.G68..00,I69.8,,33381,02/10/2018,02/10/2018,V,Sequelae/other + unspecified cerebrovascular diseases
+395,INUK.G6W..00,diagnostic_code,3,INUK.G6...00,I63.2,,33381,02/10/2018,02/10/2018,V,Cereb infarct due unsp occlus/stenos precerebr arteries
+,INUK.G6X..00,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,,,,,,,,,
+,INUK.G6X..00,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,,,,,,,,,
+732,INUK.Gyu3100,diagnostic_code,5,INUK.Gyu3.00,I23.8,,33381,02/10/2018,02/10/2018,V,[X]Other current complicatns following acute myocard infarct
+327,INUK.Gyu3400,diagnostic_code,5,INUK.Gyu3.00,I21.3,,33381,02/10/2018,02/10/2018,V,[X]Acute transmural myocardial infarction of unspecif site
+215,INUK.Gyu3500,diagnostic_code,5,INUK.Gyu3.00,I22.8,,33381,02/10/2018,02/10/2018,V,[X]Subsequent myocardial infarction of other sites
+643,INUK.Gyu3600,diagnostic_code,5,INUK.Gyu3.00,I22.9,,33381,02/10/2018,02/10/2018,V,[X]Subsequent myocardial infarction of unspecified site
+439,INUK.Gyu6200,diagnostic_code,5,INUK.Gyu6.00,I61.8,,33381,02/10/2018,02/10/2018,V,[X]Other intracerebral haemorrhage
+533,INUK.Gyu6300,diagnostic_code,5,INUK.Gyu6.00,I63.5,,33381,02/10/2018,02/10/2018,V,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+822,INUK.Gyu6400,diagnostic_code,5,INUK.Gyu6.00,I63.8,,33381,02/10/2018,02/10/2018,V,[X]Other cerebral infarction
+640,INUK.Gyu6500,diagnostic_code,5,INUK.Gyu6.00,I65.8,,33381,02/10/2018,02/10/2018,V,[X]Occlusion and stenosis of other precerebral arteries
+1098,INUK.Gyu6600,diagnostic_code,5,INUK.Gyu6.00,I66.8,,33381,02/10/2018,02/10/2018,V,[X]Occlusion and stenosis of other cerebral arteries
+620,INUK.Gyu6B00,diagnostic_code,5,INUK.Gyu6.00,I69.2,,33381,02/10/2018,02/10/2018,V,[X]Sequelae of other nontraumatic intracranial haemorrhage
+305,INUK.Gyu6C00,diagnostic_code,5,INUK.Gyu6.00,I69.4,,33381,02/10/2018,02/10/2018,V,"[X]Sequelae of stroke,not specfd as h'morrhage or infarction"
+1071,INUK.Gyu6D00,diagnostic_code,5,INUK.Gyu6.00,I69.8,,33381,02/10/2018,02/10/2018,V,[X]Sequelae/other + unspecified cerebrovascular diseases
+1094,INUK.Gyu6F00,diagnostic_code,5,INUK.Gyu6.00,I61.2,,33381,02/10/2018,02/10/2018,V,"[X]Intracerebral haemorrhage in hemisphere, unspecified"
+164,INUK.Gyu6G00,diagnostic_code,5,INUK.Gyu6.00,I63.2,,33381,02/10/2018,02/10/2018,V,[X]Cereb infarct due unsp occlus/stenos precerebr arteries
+836,INUK.ZV12511,diagnostic_code,5,INUK.ZV12.00,Z86.7,,33381,02/10/2018,02/10/2018,V,[V]Personal history of stroke
